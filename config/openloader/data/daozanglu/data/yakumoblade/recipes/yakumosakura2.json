@@ -1,0 +1,40 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "yakumoblade:yakumosakura2",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "item": "slashblade:proudsoul_trapezohedron"
+    },
+    "D": {
+      "item": "minecraft:end_crystal"
+    },
+    "G": {
+      "item": "slashblade:proudsoul_crystal"
+    },
+    "I": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 1100,
+        "name": "yakumoblade:yakumosakura",
+        "proud_soul": 10000
+      }
+    },
+    "S": {
+      "item": "minecraft:nether_star"
+    },
+    "Z": {
+      "item": "minecraft:amethyst_cluster"
+    }
+  },
+  "pattern": [
+    "SCZ",
+    "GDC",
+    "IGS"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

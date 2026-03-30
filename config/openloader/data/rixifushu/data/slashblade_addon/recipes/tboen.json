@@ -1,0 +1,22 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "slashblade_addon:tboen",
+  "category": "equipment",
+  "key": {
+    "B": {
+      "item": "slashblade:slashblade_white"
+    },
+    "S": {
+      "item": "slashblade:proudsoul"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "SBS",
+    "SSS"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

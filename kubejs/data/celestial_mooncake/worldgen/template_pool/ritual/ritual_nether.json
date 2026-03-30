@@ -1,0 +1,15 @@
+{
+  "name": "celestial_mooncake:ritual/ritual_nether",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "celestial_mooncake:ritual/ritual_nether",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

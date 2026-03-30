@@ -1,0 +1,10 @@
+{
+  "name": "slashblade:rodai_stone",
+  "properties": {
+    "attack_base": 3.0,
+    "max_damage": 132
+  },
+  "render": {
+    "texture": "slashblade:model/rodai_stone.png"
+  }
+}

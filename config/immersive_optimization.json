@@ -1,0 +1,26 @@
+{
+  "enableEntities": true,
+  "enableBlockEntities": true,
+  "enableDistanceCulling": true,
+  "enableViewportCulling": true,
+  "minDistance": 6,
+  "blocksPerLevel": 64,
+  "blocksPerLevelDistanceCulled": 10,
+  "blocksPerLevelViewportCulled": 20,
+  "maxLevel": 20,
+  "blocksPerLevelBlockEntities": 32,
+  "entityTickBudget": 30.0,
+  "stressedThreshold": 45,
+  "dimensions": {
+    "minecraft:the_nether": true,
+    "minecraft:overworld": true,
+    "minecraft:the_end": true
+  },
+  "entities": {
+    "minecraft:ender_dragon": false,
+    "minecraft:player": false,
+    "minecraft:arrow": false
+  },
+  "version": 2,
+  "name": "immersive_optimization"
+}

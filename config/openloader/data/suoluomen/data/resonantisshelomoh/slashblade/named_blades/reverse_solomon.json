@@ -1,0 +1,32 @@
+{
+  "enchantments": [
+    {
+      "id": "tonsofenchants:xp_sword_master",
+      "lvl": 5
+    },
+    {
+      "id": "minecraft:unbreaking",
+      "lvl": 10
+    }
+  ],
+  "name": "resonantisshelomoh:reverse_solomond",
+  "properties": {
+    "attack_base": 21.0,
+    "max_damage": 200,
+    "slash_art": "resonantisshelomoh:alloverex",
+    "special_effects": [
+      "resonantisshelomoh:occupyingheart",
+      "resonantisshelomoh:seizetheblood",
+      "resonantisshelomoh:compassionfortorture"
+    ],
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "carry_type": "default",
+    "model": "resonantisshelomoh:model/solmen/muzimi.obj",
+    "summon_sword_color": 16711680,
+    "texture": "resonantisshelomoh:model/solmen/mortis.png"
+  }
+}

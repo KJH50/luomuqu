@@ -1,0 +1,83 @@
+{
+
+  "item.alexscaves_torpedoes.azure_pickaxe": "青钕镐",
+
+  "entity.alexscaves_torpedoes.magnetic_burst": "磁力脉冲",
+
+  "subtitles.attractive_redwolf": "唱片 声音",
+
+  "subtitles.rolling_droid_hurt": "磁铁球 受伤",
+
+  "item.alexscaves_torpedoes.tectonic_chestplate": "§4地壳胸甲",
+
+  "item.alexscaves_torpedoes.attractive_music_disc": "§b音乐唱片",
+
+  "item.alexscaves_torpedoes.pocket_magnet": "§e口袋磁铁",
+
+  "subtitles.pulsargun_empty": "脉冲枪 供能不足",
+
+  "item.alexscaves_torpedoes.azure_shovel": "青钕铲",
+
+  "item.alexscaves_torpedoes.torpedo_nuclear": "核鱼雷",
+
+  "subtitles.rolling_droid_death": "滚动机器人 死亡",
+
+  "entity.alexscaves_torpedoes.polarizz": "磁铁球",
+
+  "subtitles.silence": "",
+
+  "item.alexscaves_torpedoes.attractive_music_disc.desc": "红狼-吸引",
+
+  "item.alexscaves_torpedoes.azure_axe": "青钕斧",
+
+  "item.alexscaves_torpedoes.scarlet_axe": "赤钕斧",
+
+  "item.alexscaves_torpedoes.ferrousslime_boots": "§e富铁粘液靴",
+
+  "entity.alexscaves_torpedoes.torpedo_missile": "鱼雷导弹",
+
+  "subtitles.magnetic_brust": "磁力 脉冲",
+
+  "subtitles.pulsargun_reload": "脉冲枪 重新装填",
+
+  "subtitles.pulsargun_shoot": "脉冲枪 射击",
+
+  "item.alexscaves_torpedoes.scarlet_shovel": "赤钕铲",
+
+  "item.alexscaves_torpedoes.scarlet_sword": "赤钕剑",
+
+  "block.alexscaves_torpedoes.magnet_display": "§e磁铁展示台",
+
+  "item.alexscaves_torpedoes.pulsargun": "脉冲枪",
+
+  "item_group.alexscaves_torpedoes.stuff_n_torpedoes_tab": "Alex\u0027s Caves: Stuff \u0026 Torpedoes",
+
+  "enchantment.alexscaves_torpedoes.universal_magnetism": "通用磁力",
+
+  "item.alexscaves_torpedoes.tectonic_boots": "§4地壳靴子",
+
+  "item.alexscaves_torpedoes.azure_hoe": "青钕锄",
+
+  "item.alexscaves_torpedoes.polarizz_spawn_egg": "磁铁球刷怪蛋",
+
+  "item.alexscaves_torpedoes.magnetic_helmet": "§e磁铁头盔",
+
+  "subtitles.rolling_droid_ambient": "磁铁球 环境声音",
+
+  "item.alexscaves_torpedoes.scarlet_hoe": "赤钕锄",
+
+  "item.alexscaves_torpedoes.torpedo_pulsar": "脉冲鱼雷",
+
+  "item.alexscaves_torpedoes.azure_sword": "青钕剑",
+
+  "item.alexscaves_torpedoes.tectonic_leggings": "§4地壳护腿",
+
+  "item.alexscaves_torpedoes.tectonic_helmet": "§4地壳头盔",
+
+  "item.alexscaves_torpedoes.scarlet_pickaxe": "赤钕镐",
+
+  "item.alexscaves_torpedoes.torpedo": "鱼雷",
+
+  "entity.alexscaves_torpedoes.bulb": "泡泡"
+
+}

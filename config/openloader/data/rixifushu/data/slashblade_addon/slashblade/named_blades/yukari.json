@@ -1,0 +1,15 @@
+{
+  "name": "slashblade_addon:yukari",
+  "properties": {
+    "attack_base": 14.0,
+    "max_damage": 60,
+    "slash_art": "slashblade:drive_horizontal",
+    "sword_type": [
+      "none"
+    ]
+  },
+  "render": {
+    "model": "slashblade_addon:model/yukari/model.obj",
+    "texture": "slashblade_addon:model/yukari/texture.png"
+  }
+}

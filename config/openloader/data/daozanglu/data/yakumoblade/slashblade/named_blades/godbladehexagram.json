@@ -1,0 +1,35 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:power",
+      "lvl": 10
+    },
+    {
+      "id": "minecraft:sharpness",
+      "lvl": 6
+    },
+    {
+      "id": "minecraft:unbreaking",
+      "lvl": 5
+    },
+    {
+      "id": "minecraft:mending"
+    }
+  ],
+  "name": "yakumoblade:godbladehexagram",
+  "properties": {
+    "attack_base": 16.0,
+    "max_damage": 180,
+    "special_effects": [
+      "yakumoblade:star_soul"
+    ],
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "model": "yakumoblade:model/named/custom/hexagram/godbladehexagram.obj",
+    "summon_sword_color": 8126719,
+    "texture": "yakumoblade:model/named/custom/hexagram/godbladehexagram.png"
+  }
+}

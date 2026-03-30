@@ -1,0 +1,13 @@
+{
+	"type": "cagedmobs:environment_data",
+	"forge:condition": {
+			"type": "forge:mod_loaded",
+			"modid": "alexscaves"
+	},
+	"input": {
+		"item": "alexscaves:radrock_uranium_ore"
+	},
+	"render": "alexscaves:radrock_uranium_ore",
+	"growModifier": 1.5,
+	"categories": ["alexscaves:toxic_caves"]
+}

@@ -1,0 +1,32 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:unbreaking",
+      "lvl": 3
+    },
+    {
+      "id": "minecraft:knockback",
+      "lvl": 2
+    },
+    {
+      "id": "minecraft:looting",
+      "lvl": 3
+    },
+    {
+      "id": "minecraft:fire_protection"
+    }
+  ],
+  "name": "slashblade_addon:kamuy_water",
+  "properties": {
+    "attack_base": 7.0,
+    "max_damage": 50,
+    "slash_art": "slashblade_addon:water_drive",
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "model": "slashblade_addon:model/kamuy/kamuy.obj",
+    "texture": "slashblade_addon:model/kamuy/water.png"
+  }
+}

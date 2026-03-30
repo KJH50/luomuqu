@@ -1,0 +1,334 @@
+{
+	consume_items: true
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	default_repeatable_quest: true
+	filename: "dlc_2"
+	group: "2CCD54ABEB9E03F4"
+	id: "4A7581471D115342"
+	images: [{
+		click: ""
+		corner: false
+		dev: false
+		height: 5.0d
+		hover: [ ]
+		image: "kubejs:textures/aaaa/aluona.png"
+		rotation: 0.0d
+		width: 2.1d
+		x: 6.0d
+		y: 0.0d
+	}]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			description: [
+				"&b三个方块放在一起，将【磁盘】放入【磁盘驱动器】即可使用，可以大量储存物品"
+				"{image:kubejs:textures/aaaa/rscunchu.png width:200 height:200 align:1}"
+				"&7（图中为原版材质，正常是金色的，因为套了材质包哦！）"
+				""
+				"{image:kubejs:textures/aaaa/cipan.png width:180 height:170 align:1}"
+				"&b（磁盘驱动器UI）"
+			]
+			id: "085814AD2FED7B59"
+			rewards: [
+				{
+					id: "29C4C94865505F01"
+					item: "refinedstorage:disk_drive"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5B7F5DFB89953C40"
+					table_id: 2277472014660364596L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "35E1443C5AB80AB3"
+					table_id: 1616259673734733635L
+					type: "choice"
+				}
+				{
+					command: "/give @s refinedstorage:16k_storage_disk"
+					elevate_perms: true
+					icon: {
+						Count: 1b
+						id: "refinedstorage:16k_storage_disk"
+						tag: {
+							Id: [I;
+								831082883
+								-1171044400
+								-1164217675
+								967202573
+							]
+						}
+					}
+					id: "421BCE7EE8DC8CBD"
+					team_reward: false
+					title: "16k磁盘"
+					type: "command"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				id: "1A2023084610E204"
+				title: "&b关于RS存储"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			description: [
+				"&6下界之星由凋灵掉落，凋灵链接："
+				"{ \"text\": \"EDIT HERE\", \"underlined\": \"true\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"09B922F3D3E6AC11\" } }"
+			]
+			icon: "refinedstorage:white_creative_controller"
+			id: "30E465C9E052F728"
+			rewards: [
+				{
+					id: "7F5204F6CA2759F0"
+					item: {
+						Count: 1b
+						id: "refinedstorage:disk_drive"
+						tag: { }
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "019C025D7CF703A9"
+					table_id: 2277472014660364596L
+					team_reward: false
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "03933E9F48287C96"
+					table_id: 1616259673734733635L
+					team_reward: false
+					type: "choice"
+				}
+			]
+			subtitle: "颜色自选，好耶"
+			tasks: [{
+				id: "6C26CB6A482E4FF6"
+				item: "minecraft:nether_star"
+				type: "item"
+			}]
+			title: "重复购买RS三件套"
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			icon: "refinedstorage:64k_storage_disk"
+			id: "6D1E5267C67EADAB"
+			rewards: [{
+				command: "/give @s refinedstorage:64k_storage_disk"
+				elevate_perms: true
+				icon: {
+					Count: 1b
+					id: "refinedstorage:64k_storage_disk"
+					tag: {
+						Id: [I;
+							1582423356
+							-1537718185
+							-1960687306
+							930782551
+						]
+					}
+				}
+				id: "1502FB2EC4FCE3F2"
+				team_reward: false
+				title: "64k磁盘"
+				type: "command"
+			}]
+			subtitle: "64k容量"
+			tasks: [{
+				id: "2A9803950010CE1C"
+				item: "ironchests:netherite_barrel"
+				type: "item"
+			}]
+			title: "磁盘"
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			description: [
+				"&6风暴精华由斯库拉掉落，斯库拉链接："
+				"{ \"text\": \"EDIT HERE\", \"underlined\": \"true\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"2F21518108430D1E\" } }"
+			]
+			icon: {
+				Count: 1b
+				id: "refinedstorage:creative_storage_disk"
+				tag: {
+					Id: [I;
+						-1952601603
+						-1816509154
+						-2076505979
+						-1359882393
+					]
+				}
+			}
+			id: "0D504BD3AA7FF544"
+			rewards: [{
+				command: "/give @s refinedstorage:creative_storage_disk"
+				elevate_perms: true
+				icon: {
+					Count: 1b
+					id: "refinedstorage:creative_storage_disk"
+					tag: {
+						Id: [I;
+							-51558938
+							-640401099
+							-1264952033
+							-1081500959
+						]
+					}
+				}
+				id: "5161A03B60BBF4DC"
+				team_reward: false
+				title: "创造磁盘"
+				type: "command"
+			}]
+			subtitle: "无限容量"
+			tasks: [{
+				consume_items: true
+				count: 4L
+				id: "276D33DE03284F37"
+				item: "cataclysm:essence_of_the_storm"
+				type: "item"
+			}]
+			title: "创造磁盘"
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			icon: {
+				Count: 1b
+				id: "refinedstorage:creative_portable_grid"
+				tag: { }
+			}
+			id: "0A093588D81754F1"
+			rewards: [{
+				id: "0396922ACA4B37BB"
+				item: {
+					Count: 1b
+					id: "refinedstorage:creative_portable_grid"
+					tag: { }
+				}
+				team_reward: false
+				type: "item"
+			}]
+			subtitle: "可以放磁盘，随时随地打开的移动终端"
+			tasks: [{
+				id: "4ABC6FB4FFE1ABDD"
+				item: "cagedmobs:star_infused_netherite_ingot"
+				type: "item"
+			}]
+			title: "创造便携终端"
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			description: [
+				"&6凋零恶魔之心由亚托克斯掉落，亚托克斯链接："
+				"{ \"text\": \"EDIT HERE\", \"underlined\": \"true\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"3844985F5638B3D3\" } }"
+				""
+				"&6将&e【无线发射器】&6放在&e【控制器】&6上"
+				""
+				"&6右键&e【无线发射器】&6打开UI界面放入&e【维度卡】&6和&e【无限范围卡】"
+				""
+				"&6使用&e【创造无线终端】&6shift+右键&e【无线发射器】&6绑定，然后就可以在任意地点访问了哦"
+				""
+				"&a距离过远，区块停止加载，控制器会自动关闭。"
+				"&a【保持区块加载的方法】链接："
+				"{ \"text\": \"EDIT HERE\", \"underlined\": \"true\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"1E19C20A1B92CE0A\" } }"
+			]
+			icon: "refinedstorage:creative_wireless_grid"
+			id: "701D0F40EDF5A63D"
+			rewards: [
+				{
+					id: "2CF62A71E914D02D"
+					item: "rsinfinitybooster:infinity_card"
+					team_reward: false
+					type: "item"
+				}
+				{
+					id: "0721266269AA6ECC"
+					item: "rsinfinitybooster:dimension_card"
+					team_reward: false
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6DF3E59AE381C2B3"
+					table_id: 4735681826313382447L
+					team_reward: false
+					type: "choice"
+				}
+				{
+					id: "6EF43A72EC52CF20"
+					item: "refinedstorageaddons:creative_wireless_crafting_grid"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5CDD9B6B5B663FB9"
+				item: "soulsweapons:withered_demon_heart"
+				type: "item"
+			}]
+			title: "无限制远程访问终端"
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			icon: {
+				Count: 1b
+				id: "refinedstorage:16k_storage_disk"
+				tag: {
+					Id: [I;
+						861978425
+						19613762
+						-1402738101
+						34652811
+					]
+				}
+			}
+			id: "5072148DEF8ED8D2"
+			rewards: [{
+				command: "/give @s refinedstorage:16k_storage_disk"
+				elevate_perms: true
+				icon: {
+					Count: 1b
+					id: "refinedstorage:16k_storage_disk"
+					tag: {
+						Id: [I;
+							831082883
+							-1171044400
+							-1164217675
+							967202573
+						]
+					}
+				}
+				id: "78DE18489C8EAEEF"
+				team_reward: false
+				title: "16k磁盘"
+				type: "command"
+			}]
+			subtitle: "16k容量磁盘"
+			tasks: [{
+				id: "0A4189F4F0AFCBA5"
+				item: "ironchests:gold_barrel"
+				type: "item"
+			}]
+			title: "磁盘"
+			x: 4.0d
+			y: -1.0d
+		}
+	]
+	title: "RS精致存储【DLC】"
+}

@@ -1,0 +1,33 @@
+{
+	"type": "cagedmobs:entity_data",
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexscaves"
+		}
+	],
+	"entity": "alexscaves:nucleeper",
+	"samplerTier": 2,
+	"environments": ["alexscaves:toxic_caves"],
+	"growTicks": 1800,
+	"results": [
+		
+		{
+			"chance": 0.15,
+				"output": {
+					"item": "alexscaves:fissile_core"
+				},
+				"minAmount": 1,
+				"maxAmount": 3
+		},
+		{
+			"chance": 0.75,
+				"output": {
+					"item": "minecraft:gunpowder"
+				},
+				"minAmount": 1,
+				"maxAmount": 5
+		}
+	]
+	
+}

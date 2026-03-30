@@ -1,0 +1,33 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "yakumoblade:hexagram",
+  "category": "equipment",
+  "key": {
+    "B": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 1800,
+        "name": "yakumoblade:godbladehexagram"
+      }
+    },
+    "D": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "S": {
+      "item": "alexsmobs:void_worm_beak"
+    },
+    "Z": {
+      "item": "cataclysm:void_core"
+    }
+  },
+  "pattern": [
+    "DSD",
+    "ZBZ",
+    "DZD"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

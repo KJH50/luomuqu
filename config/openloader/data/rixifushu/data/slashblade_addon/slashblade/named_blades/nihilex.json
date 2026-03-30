@@ -1,0 +1,40 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:unbreaking",
+      "lvl": 2
+    },
+    {
+      "id": "minecraft:sharpness",
+      "lvl": 3
+    },
+    {
+      "id": "minecraft:smite",
+      "lvl": 2
+    },
+    {
+      "id": "minecraft:bane_of_arthropods"
+    },
+    {
+      "id": "minecraft:fire_aspect",
+      "lvl": 2
+    },
+    {
+      "id": "minecraft:looting"
+    }
+  ],
+  "name": "slashblade_addon:nihilex",
+  "properties": {
+    "attack_base": 10.0,
+    "max_damage": 60,
+    "slash_art": "slashblade:wave_edge",
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "carry_type": "katana",
+    "model": "slashblade_addon:model/nihil/nihil.obj",
+    "texture": "slashblade_addon:model/nihil/nihilex.png"
+  }
+}

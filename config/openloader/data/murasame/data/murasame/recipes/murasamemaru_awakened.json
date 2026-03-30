@@ -1,0 +1,47 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "murasame:murasamemaru_awakened",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "celestial_core:sakura_steel"
+    },
+    "B": {
+      "item": "alexsmobs:void_worm_eye"
+    },
+    "C": {
+      "item": "celestial_core:sakura_steel"
+    },
+    "D": {
+      "item": "soulsweapons:essence_of_luminescence"
+    },
+    "E": {
+      "item": "celestial_core:sakura_steel"
+    },
+    "F": {
+      "item": "soulsweapons:withered_demon_heart"
+    },
+    "G": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "name": "murasame:murasamemaru"
+      }
+    },
+    "H": {
+      "item": "minecraft:nether_star"
+    },
+    "I": {
+      "item": "celestial_core:sakura_steel"
+    }
+  },
+  "pattern": [
+    "ABC",
+    "DGF",
+    "EHI"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

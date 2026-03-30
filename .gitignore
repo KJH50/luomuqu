@@ -1,0 +1,22 @@
+# Minecraft
+*.jar
+!mods/*.jar
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Java
+*.class
+*.pyc
+
+# Temp
+*~

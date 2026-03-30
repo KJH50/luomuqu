@@ -1,0 +1,88 @@
+{
+	"type": "cagedmobs:entity_data",
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "legendary_monsters"
+		}
+	],
+	"entity": "legendary_monsters:overgrown_colossus",
+	"samplerTier": 2,
+	"environments": ["cave"],
+	"growTicks": 400,
+	"results": [
+        {
+            "chance": 0.8,
+            "output": {
+                "item": "minecraft:oak_log"
+            },
+            "minAmount": 3,
+            "maxAmount": 6
+        },
+        {
+            "chance": 0.8,
+            "output": {
+                "item": "minecraft:jungle_log"
+            },
+            "minAmount": 3,
+            "maxAmount": 6
+        },
+        {
+            "chance": 0.8,
+            "output": {
+                "item": "minecraft:spruce_log"
+            },
+            "minAmount": 3,
+            "maxAmount": 6
+        },
+        {
+            "chance": 0.8,
+            "output": {
+                "item": "minecraft:birch_log"
+            },
+            "minAmount": 3,
+            "maxAmount": 6
+        },
+        {
+            "chance": 0.8,
+            "output": {
+                "item": "minecraft:jungle_log"
+            },
+            "minAmount": 3,
+            "maxAmount": 6
+        },
+        {
+            "chance": 0.8,
+            "output": {
+                "item": "minecraft:acacia_log"
+            },
+            "minAmount": 3,
+            "maxAmount": 6
+        },
+        {
+            "chance": 0.8,
+            "output": {
+                "item": "minecraft:dark_oak_log"
+            },
+            "minAmount": 3,
+            "maxAmount": 6
+        },
+        {
+            "chance": 0.8,
+            "output": {
+                "item": "minecraft:cherry_log"
+            },
+            "minAmount": 3,
+            "maxAmount": 6
+        },
+        {
+            "chance": 0.8,
+            "output": {
+                "item": "minecraft:mangrove_log"
+            },
+            "minAmount": 3,
+            "maxAmount": 6
+        }
+	]
+	
+}

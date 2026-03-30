@@ -1,0 +1,20 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:unbreaking",
+      "lvl": 3
+    }
+  ],
+  "name": "slashblade_addon:fluorescent_bar",
+  "properties": {
+    "attack_base": 15.0,
+    "max_damage": 1561,
+    "sword_type": [
+      "none"
+    ]
+  },
+  "render": {
+    "model": "slashblade_addon:model/fluorescentbar/fluorescent_bar.obj",
+    "texture": "slashblade_addon:model/fluorescentbar/fluorescent_bar.png"
+  }
+}

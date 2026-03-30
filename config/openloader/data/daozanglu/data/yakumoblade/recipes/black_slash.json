@@ -1,0 +1,48 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "yakumoblade:black_slash",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "yakumoblade:umle"
+    },
+    "B": {
+      "item": "slashblade:slashblade"
+    },
+    "D": {
+      "item": "yakumoblade:star_soul_crystal"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    },
+    "R": {
+      "tag": "forge:storage_blocks/netherite"
+    },
+    "T": {
+      "item": "slashblade:proudsoul_trapezohedron"
+    },
+    "W": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "name": "slashblade:koseki"
+      }
+    },
+    "X": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "name": "yakumoblade:star"
+      }
+    }
+  },
+  "pattern": [
+    "BTA",
+    "DXT",
+    "NWR"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

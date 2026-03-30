@@ -1,0 +1,173 @@
+{
+  "baseRewards": [
+    {
+      "rewarded": false,
+      "disabled": false,
+      "type": "ITEM",
+      "content": {
+        "item": "minecraft:apple",
+        "count": 1
+      }
+    }
+  ],
+  "continuousRewards": {
+    "1": [
+      {
+        "rewarded": false,
+        "disabled": false,
+        "type": "EXP_POINT",
+        "content": {
+          "expPoint": 5
+        }
+      }
+    ],
+    "4": [
+      {
+        "rewarded": false,
+        "disabled": false,
+        "type": "ITEM",
+        "content": {
+          "item": "minecraft:cake",
+          "count": 1
+        }
+      }
+    ],
+    "8": [
+      {
+        "rewarded": false,
+        "disabled": false,
+        "type": "SIGN_IN_CARD",
+        "content": {
+          "signInCard": 1
+        }
+      }
+    ]
+  },
+  "continuousRewardsRelation": {
+    "1": "1",
+    "2": "1",
+    "3": "1",
+    "4": "4",
+    "5": "4",
+    "6": "4",
+    "7": "4",
+    "8": "8"
+  },
+  "cycleRewards": {
+    "2": [
+      {
+        "rewarded": false,
+        "disabled": false,
+        "type": "EXP_POINT",
+        "content": {
+          "expPoint": 3
+        }
+      }
+    ],
+    "5": [
+      {
+        "rewarded": false,
+        "disabled": false,
+        "type": "EXP_LEVEL",
+        "content": {
+          "expLevel": 1
+        }
+      }
+    ]
+  },
+  "cycleRewardsRelation": {
+    "1": "2",
+    "2": "2",
+    "3": "2",
+    "4": "2",
+    "5": "5"
+  },
+  "yearRewards": {},
+  "monthRewards": {},
+  "weekRewards": {
+    "6": [
+      {
+        "rewarded": false,
+        "disabled": false,
+        "type": "EFFECT",
+        "content": {
+          "effect": "minecraft:luck",
+          "duration": 6000,
+          "amplifier": 1
+        }
+      }
+    ],
+    "7": [
+      {
+        "rewarded": false,
+        "disabled": false,
+        "type": "EFFECT",
+        "content": {
+          "effect": "minecraft:instant_health",
+          "duration": 6000,
+          "amplifier": 0
+        }
+      },
+      {
+        "rewarded": false,
+        "disabled": false,
+        "type": "EFFECT",
+        "content": {
+          "effect": "minecraft:jump_boost",
+          "duration": 6000,
+          "amplifier": 0
+        }
+      },
+      {
+        "rewarded": false,
+        "disabled": false,
+        "type": "ITEM",
+        "content": {
+          "item": "minecraft:enchanted_golden_apple",
+          "count": 1
+        }
+      }
+    ]
+  },
+  "dateTimeRewards": {
+    "0000-10-06~1": [
+      {
+        "rewarded": false,
+        "disabled": false,
+        "type": "ITEM",
+        "content": {
+          "item": "minecraft:experience_bottle",
+          "count": 1
+        }
+      },
+      {
+        "rewarded": false,
+        "disabled": false,
+        "type": "EFFECT",
+        "content": {
+          "effect": "minecraft:resistance",
+          "duration": 300,
+          "amplifier": 1
+        }
+      }
+    ]
+  },
+  "dateTimeRewardsRelation": {
+    "0000-10-6": "0000-10-06~1",
+    "0000-10-7": "0000-10-06~1"
+  },
+  "cumulativeRewards": {
+    "100": [
+      {
+        "rewarded": false,
+        "disabled": false,
+        "type": "EFFECT",
+        "content": {
+          "effect": "minecraft:luck",
+          "duration": 99999,
+          "amplifier": 2
+        }
+      }
+    ]
+  }
+}

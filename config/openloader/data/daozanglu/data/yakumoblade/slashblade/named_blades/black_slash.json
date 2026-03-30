@@ -1,0 +1,38 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:power",
+      "lvl": 10
+    },
+    {
+      "id": "minecraft:sweeping",
+      "lvl": 10
+    },
+    {
+      "id": "minecraft:fortune",
+      "lvl": 3
+    },
+    {
+      "id": "minecraft:unbreaking",
+      "lvl": 5
+    }
+  ],
+  "name": "yakumoblade:black_slash",
+  "properties": {
+    "attack_base": 20.0,
+    "max_damage": 120,
+    "slash_art": "yakumoblade:wither_summond_sword",
+    "special_effects": [
+      "yakumoblade:star_soul",
+      "slashblade:wither_edge"
+    ],
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "model": "yakumoblade:model/named/dios/dios.obj",
+    "summon_sword_color": 1,
+    "texture": "yakumoblade:model/named/dios/black_slash.png"
+  }
+}

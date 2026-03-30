@@ -1,0 +1,24 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:fire_aspect",
+      "lvl": 2
+    },
+    {
+      "id": "minecraft:fire_protection"
+    }
+  ],
+  "name": "slashblade_addon:aquablaze",
+  "properties": {
+    "attack_base": 7.0,
+    "max_damage": 60,
+    "slash_art": "slashblade_addon:spiral_edge",
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "model": "slashblade_addon:model/blademaster/blademaster.obj",
+    "texture": "slashblade_addon:model/blademaster/aquablaze.png"
+  }
+}

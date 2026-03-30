@@ -1,0 +1,50 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "resonantisshelomoh:solomond",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "sw_wukong:monkey_king_template"
+    },
+    "B": {
+      "item": "touhou_little_maid_spell:flow_core"
+    },
+    "C": {
+      "item": "celestial_artifacts:titan_scabbard"
+    },
+    "D": {
+      "item": "cataclysm:final_fractal"
+    },
+    "E": {
+      "item": "alexscaves:fissile_core"
+    },
+    "F": {
+      "item": "cataclysm:abyssal_egg"
+    },
+    "G": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 2000,
+        "name": "resonantisshelomoh:reversed",
+        "proud_soul": 200000,
+        "refine": 200
+      }
+    },
+    "H": {
+      "item": "alexscaves:sweet_tooth"
+    },
+    "I": {
+      "item": "celestial_artifacts:angel_heart"
+    }
+  },
+  "pattern": [
+    "ABC",
+    "EGF",
+    "DHI"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

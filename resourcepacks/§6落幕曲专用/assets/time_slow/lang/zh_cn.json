@@ -1,0 +1,16 @@
+{
+  "item.time_slow.time_slow": "时间的加护",
+  "item_group.time_slow.time_slow": "加护",
+  "key.time_slow.time_slow": "加护",
+  "curios.identifier.time_slow": "加护栏",
+  "item.time_slow.god_defence": "神圣的加护",
+  "item.time_slow.cause_defence": "因果的加护",
+  "item.time_slow.king_defence": "王者的加护",
+  "item.time_slow.heal_defence": "治愈的加护",
+  "item.time_slow.knight_defence": "骑士的加护",
+  "item.time_slow.power_defence": "力量的加护",
+  "item.time_slow.savior_guardian": "救世主的加护",
+  "key.time_slow.switch_ability": "切换能力",
+  "enchantment.time_slow.armor_piercing": "破军",
+  "enchantment.time_slow.armor_piercing.desc": "仅适用TACZ枪械，每级提供5%伤害提升（佩戴终末之环使用会崩溃！）"
+}

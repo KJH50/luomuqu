@@ -1,0 +1,30 @@
+{
+  "enchantments": [
+    {
+      "id": "goety_revelation:reality_piercer",
+      "lvl": 5
+    },
+    {
+      "id": "minecraft:power",
+      "lvl": 10
+    }
+  ],
+  "name": "yakumoblade:blue_fox",
+  "properties": {
+    "attack_base": 20.0,
+    "max_damage": 200,
+    "slash_art": "murasame:spatial_slash",
+    "special_effects": [
+      "yakumoblade:star_soul",
+      "yakumoblade:highfrequency"
+    ],
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "model": "yakumoblade:model/named/sange/model.obj",
+    "summon_sword_color": 16683208,
+    "texture": "yakumoblade:model/named/sange/texture.png"
+  }
+}

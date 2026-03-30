@@ -1,0 +1,31 @@
+{
+  "enchantments": [
+    {
+      "id": "tonsofenchants:xp_sword_master",
+      "lvl": 2
+    },
+    {
+      "id": "minecraft:smite",
+      "lvl": 10
+    }
+  ],
+  "name": "resonantisshelomoh:reversed",
+  "properties": {
+    "attack_base": 12.0,
+    "max_damage": 200,
+    "slash_art": "resonantisshelomoh:allover",
+    "special_effects": [
+      "resonantisshelomoh:occupyingheart",
+      "slashblade_addon:burst_drive"
+    ],
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "carry_type": "default",
+    "model": "resonantisshelomoh:model/speed/speed.obj",
+    "summon_sword_color": 7377883,
+    "texture": "resonantisshelomoh:model/speed/speed.png"
+  }
+}

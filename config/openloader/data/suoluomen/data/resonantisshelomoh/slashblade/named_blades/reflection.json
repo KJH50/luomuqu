@@ -1,0 +1,16 @@
+{
+  "name": "resonantisshelomoh:reflection",
+  "properties": {
+    "attack_base": 13.0,
+    "max_damage": 200,
+    "slash_art": "resonantisshelomoh:allover",
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "carry_type": "default",
+    "model": "resonantisshelomoh:model/solmen/reflection.obj",
+    "texture": "resonantisshelomoh:model/solmen/reflection.png"
+  }
+}

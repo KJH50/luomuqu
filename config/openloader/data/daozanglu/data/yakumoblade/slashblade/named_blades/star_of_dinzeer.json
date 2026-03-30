@@ -1,0 +1,47 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:power",
+      "lvl": 10
+    },
+    {
+      "id": "minecraft:unbreaking",
+      "lvl": 5
+    },
+    {
+      "id": "minecraft:smite",
+      "lvl": 6
+    },
+    {
+      "id": "minecraft:sharpness",
+      "lvl": 6
+    },
+    {
+      "id": "minecraft:bane_of_arthropods",
+      "lvl": 6
+    },
+    {
+      "id": "minecraft:bane_of_arthropods",
+      "lvl": 6
+    }
+  ],
+  "name": "yakumoblade:star_of_dinzeer",
+  "properties": {
+    "attack_base": 25.0,
+    "max_damage": 180,
+    "slash_art": "slashblade_addon:water_drive",
+    "special_effects": [
+      "resonantisshelomoh:compassionfortorture",
+      "yakumoblade:star_soul",
+      "yakumoblade:eternal"
+    ],
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "model": "yakumoblade:model/maker_sword/dark_raven.obj",
+    "summon_sword_color": 6837744,
+    "texture": "yakumoblade:model/maker_sword/star_of_dinzeer.png"
+  }
+}

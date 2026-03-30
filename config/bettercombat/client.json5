@@ -1,0 +1,21 @@
+{
+	"isHoldToAttackEnabled": true,
+	"isMiningWithWeaponsEnabled": true,
+	"isSwingThruGrassEnabled": true,
+	"isAttackInsteadOfMineWhenEnemiesCloseEnabled": false,
+	"isHighlightCrosshairEnabled": true,
+	"hudHighlightColor": 16711680,
+	"isShowingArmsInFirstPerson": true,
+	"isShowingOtherHandFirstPerson": true,
+	"isSweepingParticleEnabled": true,
+	"isTooltipAttackRangeEnabled": true,
+	"weaponSwingSoundVolume": 100,
+	"isDebugOBBEnabled": true,
+	"swingThruGrassBlacklist": "farmersdelight",
+	"mineWithWeaponBlacklist": "",
+	"enableFirstPersonAnimationCompatibility": true,
+	// 禁用身体大部分动画
+	"disableMostBodyAnimations": false,
+	// 启用冷却不完全提前攻击
+	"enableIncompleteCooldownPreemptiveAttack": true
+}

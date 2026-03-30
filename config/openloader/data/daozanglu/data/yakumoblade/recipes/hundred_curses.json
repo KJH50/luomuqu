@@ -1,0 +1,51 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "yakumoblade:hundred_curses",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 1000,
+        "name": "yakumoblade:ye_soul",
+        "refine": 20
+      }
+    },
+    "B": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 1500,
+        "name": "yakumoblade:red_sun",
+        "refine": 20
+      }
+    },
+    "C": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 300,
+        "name": "yakumoblade:black_slash"
+      }
+    },
+    "D": {
+      "item": "yakumoblade:umle"
+    },
+    "V": {
+      "item": "dreadsteel:dreadsteel_ingot"
+    },
+    "Z": {
+      "item": "cataclysm:cursium_ingot"
+    }
+  },
+  "pattern": [
+    "VAZ",
+    "DBD",
+    "ZCV"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

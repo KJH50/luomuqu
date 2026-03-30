@@ -1,0 +1,4 @@
+#Relative particle amount (0~1)
+#Range: 0.0 ~ 1.0
+particle_amount = 0.7
+

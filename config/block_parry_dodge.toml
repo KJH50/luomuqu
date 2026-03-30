@@ -1,0 +1,13 @@
+
+[general]
+	#Cooldown in ticks before the player is able to parry again.
+	parry_cooldown = 60.0
+	#The window in ticks after pressing the parry key that successful parries can occur.
+	parry_window = 10.0
+	#Whether or not to immediately set parry off cooldown upon a successful parry.
+	refund_parry_cooldown = true
+	#Cooldown in ticks before the player is able to roll again.
+	roll_cooldown = 60.0
+	#The window in ticks after pressing the roll key that the player is invincible.
+	roll_window = 10.0
+

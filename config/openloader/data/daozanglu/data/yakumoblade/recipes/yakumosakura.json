@@ -1,0 +1,40 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "yakumoblade:yakumosakura",
+  "category": "equipment",
+  "key": {
+    "D": {
+      "item": "hotbath:peony_bath_bucket"
+    },
+    "E": {
+      "item": "slashblade:proudsoul_sphere"
+    },
+    "G": {
+      "item": "slashblade:proudsoul_trapezohedron"
+    },
+    "I": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 700,
+        "name": "yakumoblade:san",
+        "proud_soul": 3000
+      }
+    },
+    "S": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "T": {
+      "item": "celestial_core:sakura_steel"
+    }
+  },
+  "pattern": [
+    "SET",
+    "GDE",
+    "IGS"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

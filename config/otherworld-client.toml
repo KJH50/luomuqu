@@ -1,0 +1,10 @@
+
+[otherworld-client]
+	#--- The Otherworld: Client Configurations ---
+	#Use custom textures for the Player to match their character.
+	useCharacterTextures = true
+	#Add custom layers to the Player's model, like Oni horns or Fairie wings.
+	renderLayersOnPlayer = true
+	#Add clothing layers to the Player's model, depending on their race and profession.
+	renderClothesOnPlayer = true
+

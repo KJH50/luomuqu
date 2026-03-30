@@ -1,0 +1,10 @@
+{
+  "name": "slashblade:ruby",
+  "properties": {
+    "attack_base": 5.0,
+    "max_damage": 45
+  },
+  "render": {
+    "texture": "slashblade:model/ruby.png"
+  }
+}

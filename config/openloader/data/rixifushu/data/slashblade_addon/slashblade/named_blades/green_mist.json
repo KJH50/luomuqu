@@ -1,0 +1,25 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:power",
+      "lvl": 3
+    },
+    {
+      "id": "minecraft:fortune",
+      "lvl": 3
+    }
+  ],
+  "name": "slashblade_addon:green_mist",
+  "properties": {
+    "attack_base": 7.0,
+    "max_damage": 60,
+    "slash_art": "slashblade_addon:rapid_blistering_swords",
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "model": "slashblade_addon:model/blademaster/blademaster.obj",
+    "texture": "slashblade_addon:model/blademaster/green_mist.png"
+  }
+}

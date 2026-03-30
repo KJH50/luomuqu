@@ -1,0 +1,5 @@
+
+["Auto-Targeting Setting"]
+	#Enable the enemy lock-on?[Default:true]
+	enablesEnemyLockOn = true
+

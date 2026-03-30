@@ -1,0 +1,41 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "yakumoblade:red_sun",
+  "category": "equipment",
+  "key": {
+    "B": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 1500,
+        "name": "yakumoblade:star",
+        "refine": 20
+      }
+    },
+    "P": {
+      "item": "yakumoblade:star_soul_crystal"
+    },
+    "S": {
+      "item": "soulsweapons:arkenstone"
+    },
+    "V": {
+      "tag": "forge:storage_blocks/redstone"
+    },
+    "Z": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "name": "yakumoblade:ru_sang"
+      }
+    }
+  },
+  "pattern": [
+    "VVZ",
+    "VPV",
+    "BSV"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

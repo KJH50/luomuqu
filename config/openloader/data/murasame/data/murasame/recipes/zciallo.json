@@ -1,0 +1,23 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "murasame:murasamemaru_awakened",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "name": "cialloblade:zciallo"
+      }
+    }
+  },
+  "pattern": [
+    "   ",
+    " A ",
+    "   "
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

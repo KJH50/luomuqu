@@ -1,0 +1,38 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "yakumoblade:yakumosakurafinal",
+  "category": "equipment",
+  "key": {
+    "D": {
+      "item": "cataclysm:void_core"
+    },
+    "E": {
+      "item": "cataclysm:void_eye"
+    },
+    "G": {
+      "item": "cataclysm:abyss_eye"
+    },
+    "I": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 2300,
+        "name": "yakumoblade:yakumosakura3",
+        "proud_soul": 17000,
+        "refine": 88
+      }
+    },
+    "S": {
+      "item": "minecraft:end_crystal"
+    }
+  },
+  "pattern": [
+    "SED",
+    "GDE",
+    "IGS"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,23 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "resonantisshelomoh:reverse_solomond",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "name": "resonantisshelomoh:solomond"
+      }
+    }
+  },
+  "pattern": [
+    "   ",
+    " A ",
+    "   "
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

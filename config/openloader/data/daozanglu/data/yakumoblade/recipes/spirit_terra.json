@@ -1,0 +1,43 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "yakumoblade:spirit_terra",
+  "category": "equipment",
+  "key": {
+    "B": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 1000,
+        "name": "yakumoblade:starsky_red",
+        "refine": 20
+      }
+    },
+    "P": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 1000,
+        "name": "yakumoblade:star_muasum",
+        "refine": 20
+      }
+    },
+    "S": {
+      "item": "iceandfire:lightning_dragon_heart"
+    },
+    "V": {
+      "item": "irons_spellbooks:lightning_bottle"
+    },
+    "Z": {
+      "item": "iceandfire:lightning_dragon_blood"
+    }
+  },
+  "pattern": [
+    "ZVV",
+    "VPV",
+    "BSZ"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

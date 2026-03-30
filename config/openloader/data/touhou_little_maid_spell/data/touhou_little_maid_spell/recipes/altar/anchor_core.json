@@ -1,0 +1,33 @@
+{
+  "type": "touhou_little_maid:altar_crafting",
+  "output": {
+    "type": "minecraft:item",
+    "nbt": {
+      "Item": {
+        "id": "touhou_little_maid_spell:anchor_core",
+        "Count": 1
+      }
+    }
+  },
+  "power": 0.45,
+  "ingredients": [
+    {
+      "item": "goety:ectoplasm"
+    },
+    {
+      "item": "legendary_monsters:air_rune"
+    },
+    {
+      "tag": "forge:gems/diamond"
+    },
+    {
+      "tag": "forge:gems/diamond"
+    },
+    {
+      "item": "minecraft:iron_block"
+    },
+    {
+      "item": "soulsweapons:withered_demon_heart"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+type = customizablemenus
+
+net.minecraft.client.gui.screens.TitleScreen {
+}
+
+net.minecraft.client.gui.screens.controls.KeyBindsScreen {
+}
+
+net.minecraft.client.gui.screens.OptionsScreen {
+}
+
+dev.xkmc.l2tabs.tabs.contents.AttributeScreen {
+}
+
+net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen {
+}
+

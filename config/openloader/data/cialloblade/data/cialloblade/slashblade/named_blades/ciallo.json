@@ -1,0 +1,31 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:power",
+      "lvl": 3
+    },
+    {
+      "id": "minecraft:unbreaking",
+      "lvl": 3
+    }
+  ],
+  "item": "slashblade:slashblade",
+  "name": "cialloblade:ciallo",
+  "properties": {
+    "attack_base": 35.0,
+    "max_damage": 180,
+    "slash_art": "slashblade_addon:fire_spiral",
+    "special_effects": [
+      "cialloblade:ciallo"
+    ],
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "carry_type": "default",
+    "model": "cialloblade:model/ciallo/blademaster.obj",
+    "summon_sword_color": 4980480,
+    "texture": "cialloblade:model/ciallo/ciallo.png"
+  }
+}

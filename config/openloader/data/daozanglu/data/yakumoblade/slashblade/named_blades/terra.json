@@ -1,0 +1,24 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:power",
+      "lvl": 20
+    }
+  ],
+  "name": "yakumoblade:terra",
+  "properties": {
+    "attack_base": 60.0,
+    "max_damage": 200,
+    "slash_art": "slashblade_addon:rapid_blistering_swords",
+    "special_effects": [
+      "yakumoblade:yuyuko",
+      "yakumoblade:gapgap",
+      "yakumoblade:very_green"
+    ]
+  },
+  "render": {
+    "model": "yakumoblade:model/relicofpaseone/blade_seven.obj",
+    "summon_sword_color": 3091266,
+    "texture": "yakumoblade:model/relicofpaseone/blade_hexagram_s.png"
+  }
+}

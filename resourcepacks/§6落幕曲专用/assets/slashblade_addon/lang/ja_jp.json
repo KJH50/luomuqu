@@ -1,0 +1,55 @@
+{
+  "item.slashblade_addon.slashblade_tofu_ishi": "Tofu -Ishi-",
+  "item.slashblade_addon.slashblade_tofu_ishi.desc": "Not Literally Tofu.",
+  "item.slashblade_addon.slashblade_tofu_metal": "Tofu -Metal-",
+  "item.slashblade_addon.slashblade_tofu_metal.desc": "Metal Tofu's Heart.",
+  "item.slashblade_addon.slashblade_tofu_diamond": "Tofu -Diamond-",
+  "item.slashblade_addon.slashblade_tofu_diamond.desc": "Unbreakable Tofu.",
+
+  "slash_art.slashblade_addon.rapid_blistering_swords": "急襲幻影剣",
+  "slash_art.slashblade_addon.spiral_edge": "旋刃",
+  "slash_art.slashblade_addon.gale_swords": "烈風幻影剣",
+
+  "item.slashblade_addon.nihil": "妖刀「似蛭」",
+  "item.slashblade_addon.nihilex": "血刀「似蛭」",
+  "item.slashblade_addon.nihilul": "獄刀「似蛭」",
+  "item.slashblade_addon.crimsoncherry": "妖刀「紅桜」",
+  "item.slashblade_addon.nihilbx": "炼獄刀「死念」",
+
+  "item.slashblade_addon.katana": "名刀「刀」",
+  "item.slashblade_addon.tachi": "名刀「太刀」",
+  "item.slashblade_addon.blue": "利刀「蒼梅」",
+
+  "item.slashblade_addon.green_mist": "聖幸刀「緑乃霧」",
+  "item.slashblade_addon.aquablaze": "侍月刀「炎水薄斬」",
+  "item.slashblade_addon.moonlight_cherry": "月光桜「吹雪一閃」",
+
+  "item.slashblade_addon.dark_raven": "「闇鴉」",
+  "item.slashblade_addon.snow_crow": "「雪鴉」",
+
+  "item.slashblade_addon.fluorescent_bar": "「蛍光灯」",
+
+  "item.slashblade_addon.frosty_cherry": "凍桜刃「雪花蒼月」",
+  "item.slashblade_addon.frost_wolf": "明獣刃「陽牙氷狼」"  ,
+      
+  "item.slashblade_addon.toyako": "洞爺湖",
+  "item.slashblade_addon.tboen": "型月刀「空の境界」",
+  "item.slashblade_addon.laemmle": "「幻魔練金拵」",
+  "item.slashblade_addon.yukari": "結月刀「付喪-改」"	,
+  "item.slashblade_addon.kirisaya": "無神「刃無し」",
+  "se.slashblade_addon.burst_drive": "バースト・ドライブ",
+  "se.slashblade_addon.mana_burst": "マナバースト",
+  "se.slashblade_addon.mana_repair": "マナリペア",
+
+  "item.slashblade_addon.kamuy_water": "神威刀「ワッカ」",
+  "item.slashblade_addon.kamuy_lightning": "神威刀「カンナ」",
+  "item.slashblade_addon.kamuy_fire": "神威刀「アペ」",
+
+  "slash_art.slashblade_addon.water_drive": "ルヤンペチュイェ",
+  "slash_art.slashblade_addon.fire_spiral": "キムンリムセ",
+  "slash_art.slashblade_addon.lighting_swords": "ニシコトロアイ",
+
+  "item.slashblade_addon.kamuy_none": "神威刀「クトネシリカ」",
+  "item.slashblade_addon.terra_blade": "「大地の刃」",
+  "slash_art.slashblade_addon.blistering_terra_swords": "ひび割れ"
+}

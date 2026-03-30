@@ -1,0 +1,31 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "yakumoblade:green_yamato",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "tag": "forge:dyes/green"
+    },
+    "B": {
+      "item": "slashblade:slashblade"
+    },
+    "C": {
+      "item": "minecraft:ender_eye"
+    },
+    "V": {
+      "tag": "forge:storage_blocks/emerald"
+    },
+    "Z": {
+      "tag": "forge:armors/helmets"
+    }
+  },
+  "pattern": [
+    "CZA",
+    "VBV",
+    "AVC"
+  ],
+  "result": {
+    "item": "slashblade:katana"
+  },
+  "show_notification": true
+}

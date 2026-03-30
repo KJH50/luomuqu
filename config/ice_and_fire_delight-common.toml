@@ -1,0 +1,13 @@
+
+[General]
+	#This variable is responsible for give book on startup or not. Default: true  
+	give_book_on_startup = true
+
+["Special pie"]
+	#Will there be an explosion when eating a special pie. Default: true
+	enable_explosions_when_eat_special_pie = true
+	#This variable is responsible for the chance of an explosion when eating a special pie. 0.0 - 0%, 1.0 - 100%. Default: 0.2; Range: [0.0 ~ 1.0]
+	chance_explosions_when_eat_special_pie = 0.2
+	#Number of deaths before explosions stop after eating pie. Default: 1; Range: [1 ~ 9999]
+	number_death_before_explosions_stop_when_eating_special_pie = 1.0
+

@@ -1,0 +1,22 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:power",
+      "lvl": 3
+    }
+  ],
+  "name": "yakumoblade:starsky_red",
+  "properties": {
+    "attack_base": 7.0,
+    "max_damage": 180,
+    "special_effects": [
+      "yakumoblade:star_soul",
+      "yakumoblade:highfrequency"
+    ]
+  },
+  "render": {
+    "model": "yakumoblade:model/named/murasama/murasama.obj",
+    "summon_sword_color": 12013391,
+    "texture": "yakumoblade:model/named/murasama/redsky_star.png"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "slashblade_addon:nihilex",
+  "category": "equipment",
+  "key": {
+    "B": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 400,
+        "name": "slashblade_addon:nihil",
+        "proud_soul": 100,
+        "refine": 1
+      }
+    },
+    "D": {
+      "item": "minecraft:diamond_block"
+    },
+    "I": {
+      "item": "legendary_monsters:withered_bone"
+    },
+    "N": {
+      "item": "minecraft:gold_block"
+    },
+    "S": {
+      "item": "legendary_monsters:lava_eaters_skin"
+    }
+  },
+  "pattern": [
+    "SNS",
+    "IBI",
+    "SDS"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

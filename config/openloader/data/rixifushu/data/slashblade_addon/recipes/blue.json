@@ -1,0 +1,31 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "slashblade_addon:blue",
+  "category": "equipment",
+  "key": {
+    "B": {
+      "item": "minecraft:blue_dye"
+    },
+    "C": {
+      "item": "minecraft:coal_block"
+    },
+    "I": {
+      "item": "slashblade:proudsoul_ingot"
+    },
+    "L": {
+      "item": "minecraft:string"
+    },
+    "S": {
+      "item": "iceandfire:siren_tear"
+    }
+  },
+  "pattern": [
+    "BCI",
+    "CI ",
+    "SL "
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

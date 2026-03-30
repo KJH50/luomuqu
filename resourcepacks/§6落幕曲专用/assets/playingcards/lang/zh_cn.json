@@ -1,0 +1,52 @@
+{
+  "block.playingcards.poker_table": "扑克牌桌",
+  "block.playingcards.bar_stool": "吧台凳",
+
+  "item.playingcards.card_deck": "扑克牌堆",
+  "item.playingcards.card_covered": "扑克牌",
+  "item.playingcards.card": "扑克牌与筹码",
+
+  "item.playingcards.poker_chip_white": "白色筹码",
+  "item.playingcards.poker_chip_red": "红色筹码",
+  "item.playingcards.poker_chip_blue": "蓝色筹码",
+  "item.playingcards.poker_chip_green": "绿色筹码",
+  "item.playingcards.poker_chip_black": "黑色筹码",
+
+  "item.playingcards.dice_white": "白色骰子",
+
+  "entity.playingcards.poker_chip": "筹码",
+  "entity.playingcards.card": "扑克牌",
+  "entity.playingcards.card_deck": "扑克牌堆",
+  "entity.playingcards.seat": "吧台凳",
+
+  "lore.cover": "牌背：",
+
+  "card.ace": "A",
+  "card.jack": "J",
+  "card.queen": "Q",
+  "card.king": "K",
+  "card.of": "-",
+  "card.spades": "黑桃",
+  "card.clubs": "梅花",
+  "card.diamonds": "方块",
+  "card.hearts": "红桃",
+
+  "card.skin.blue": "经典蓝",
+  "card.skin.red": "经典红",
+  "card.skin.black": "经典黑",
+  "card.skin.pig": "小猪图案",
+
+  "itemGroup.playingcards.tab": "扑克牌与筹码",
+
+  "message.stack_full": "这叠筹码摞到顶了！",
+  "message.stack_empty": "没有牌了！",
+  "message.stack_shuffled": "已洗牌",
+  "message.stack_owner_error": "主人无法认领此牌堆",
+  "message.poker_chip_owner_set": "您已被设置为持有者",
+  "message.poker_chip_owner_error": "筹码已被认领",
+  "message.poker_chip_owner_missing": "无人认领的筹码！不可放置！",
+  "message.poker_chip_table_error": "筹码持有者与牌桌主人不匹配，无法放置。",
+
+  "unitname.mod_name": "扑克牌与筹码",
+  "unitname.poker_chip": "筹码"
+}

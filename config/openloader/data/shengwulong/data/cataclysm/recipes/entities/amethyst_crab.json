@@ -1,0 +1,40 @@
+{
+	"type": "cagedmobs:entity_data",
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "cataclysm"
+		}
+	],
+	"entity": "cataclysm:amethyst_crab",
+	"samplerTier": 3,
+	"environments": ["cave"],
+	"growTicks": 1800,
+	"results": [
+        {
+            "chance": 0.2,
+            "output": {
+                "item": "cataclysm:amethyst_crab_meat"
+            },
+            "minAmount": 1,
+            "maxAmount": 3
+        },
+        {
+            "chance": 0.2,
+            "output": {
+                "item": "cataclysm:amethyst_crab_shell"
+            },
+            "minAmount": 1,
+            "maxAmount": 2
+        },
+        {
+            "chance": 0.45,
+            "output": {
+                "item": "minecraft:amethyst_shard"
+            },
+            "minAmount": 1,
+            "maxAmount": 5
+        }
+	]
+	
+}

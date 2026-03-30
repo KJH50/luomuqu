@@ -1,0 +1,42 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "slashblade_addon:nihilul",
+  "category": "equipment",
+  "key": {
+    "B": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 1000,
+        "name": "slashblade_addon:nihilex",
+        "proud_soul": 5000,
+        "refine": 3
+      }
+    },
+    "D": {
+      "item": "minecraft:diamond_block"
+    },
+    "N": {
+      "item": "bosses_of_mass_destruction:blazing_eye"
+    },
+    "S": {
+      "item": "minecraft:gold_block"
+    },
+    "Y": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "name": "slashblade:orotiagito"
+      }
+    }
+  },
+  "pattern": [
+    "SNS",
+    "DBD",
+    "SYS"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

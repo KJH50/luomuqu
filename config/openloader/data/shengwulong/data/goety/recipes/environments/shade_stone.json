@@ -1,0 +1,13 @@
+{
+	"type": "cagedmobs:environment_data",
+	"forge:condition": {
+			"type": "forge:mod_loaded",
+			"modid": "goety"
+	},
+	"input": {
+		"item": "goety:shade_stone"
+	},
+	"render": "goety:shade_stone",
+	"growModifier": 1.0,
+	"categories": ["goety"]
+}

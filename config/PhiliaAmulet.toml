@@ -1,0 +1,18 @@
+
+[Config]
+	#Living Entity Whitelist
+	"Entity Whitelist" = ["minecraft:allay"]
+	#You can not hurt yourself
+	#And your pets can not hurt themselves
+	#PS. Regardless of whether NoSelfHarm is enabled, pets will not harm you.
+	"No Self-Harm" = false
+	#Do not enable protection as for Melee Damage
+	"No Melee Damage Protection" = false
+	#Pets and Summons won't hurt whitelisted mobs when putting on PhiLia Amulet
+	"Pets are friendly to whitelisted mobs" = true
+	#Disable damage between pets or summons which have the same owner
+	"Pets are friendly to each other" = true
+	#If enabled, this mod won't stop you from hurting your pets or summons.
+	#But other mods might still care about them.
+	"I don't care" = true
+

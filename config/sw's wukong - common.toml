@@ -1,0 +1,15 @@
+
+["sw's wukong"]
+	#The unit is tick.
+	"skill(1) cooltime" = 15.0
+	#The unit is tick.
+	"skill(2) cooltime" = 40.0
+	#Decide whether to allow the buffs provided by wukong's armor.
+	"armor passive" = true
+	#@+(smite level x 4.75)
+	"skill(1) damage" = 450.0
+	#@+(smite level x 3.75)
+	"skill(2) damage" = 550.0
+	#remove skills of jingubang.
+	"staff skill off" = false
+

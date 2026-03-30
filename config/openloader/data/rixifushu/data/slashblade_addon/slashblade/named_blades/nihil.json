@@ -1,0 +1,32 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:unbreaking",
+      "lvl": 3
+    },
+    {
+      "id": "minecraft:sharpness",
+      "lvl": 2
+    },
+    {
+      "id": "minecraft:smite"
+    },
+    {
+      "id": "minecraft:fire_aspect"
+    }
+  ],
+  "name": "slashblade_addon:nihil",
+  "properties": {
+    "attack_base": 8.0,
+    "max_damage": 45,
+    "slash_art": "slashblade:drive_horizontal",
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "carry_type": "katana",
+    "model": "slashblade_addon:model/nihil/nihil.obj",
+    "texture": "slashblade_addon:model/nihil/nihil.png"
+  }
+}

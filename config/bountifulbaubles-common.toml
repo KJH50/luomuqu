@@ -1,0 +1,195 @@
+
+["Anvil Recast Settings"]
+	#全局重铸经验消耗 (0-100)
+	#Range: 0 ~ 100
+	recastExpCost = 3
+	#全局重铸材料消耗 (1-64)
+	#Range: 1 ~ 64
+	recastMaterialCost = 1
+
+["Cloud in a Bottle Settings"]
+	#疾跑跳跃垂直加成 (默认0.5)
+	#Range: 0.0 ~ 2.0
+	sprintVertical = 0.5
+	#疾跑跳跃水平加成 (默认0.5)
+	#Range: 0.0 ~ 2.0
+	sprintHorizontal = 0.5
+
+["Totem Settings"]
+	#冷却时间(单位tick, 20tick=1秒)
+	#Range: 100 ~ 72000
+	cooldown = 6000
+	#启用Curios支持
+	enableCurios = true
+
+["Vampiric Glove Settings"]
+	#吸血百分比 (0.0-1.0)
+	#Range: 0.0 ~ 1.0
+	vampiricPercent = 0.2
+	#单次最大吸血量
+	#Range: 0.0 ~ 100.0
+	vampiricMax = 2.0
+
+["Gauntlets Settings"]
+	#攻击速度加成倍率 (0.6=+60%)
+	#Range: 0.0 ~ 2.0
+	attackSpeed = 0.6
+
+["Cross Necklace Settings"]
+	#十字项链相关配置
+	#无敌时间延长倍率 (0.8=延长80%，设为0禁用效果)
+	#Range: 0.0 ~ 5.0
+	crossNecklaceBoost = 0.8
+	#是否仅对玩家生效
+	crossNecklacePlayersOnly = true
+
+["Mob Drop Settings"]
+	#所有概率值为0.0-1.0之间的浮点数，1.0=100%
+	#尸壳掉落禁果概率 (默认2.5%)
+	#Range: 0.0 ~ 1.0
+	huskAppleChance = 0.025
+	#流浪者掉落超频戒指概率 (默认3%)
+	#Range: 0.0 ~ 1.0
+	strayRingChance = 0.03
+	#潜影贝掉落潜影之心概率 (默认10%)
+	#Range: 0.0 ~ 1.0
+	shulkerHeartChance = 0.1
+	#洞穴蜘蛛掉落牛黄概率 (默认5%)
+	#Range: 0.0 ~ 1.0
+	caveSpiderBezoarChance = 0.05
+	#唤魔者掉落无限图腾概率 (默认10%)
+	#Range: 0.0 ~ 1.0
+	evokerTotemChance = 0.1
+
+["Loot Settings"]
+	#配置格式：物品ID,权重,最小数量,最大数量;多个物品用分号分隔
+	#沙漠神殿战利品
+	#结构ID: minecraft:chests/desert_pyramid
+	desertPyramidLoot = "bountifulbaubles:potion_wormhole,6,1,2;bountifulbaubles:potion_recall,7,1,3;bountifulbaubles:magic_mirror,2,1,2;bountifulbaubles:broken_black_dragon_scale,2,1,2;bountifulbaubles:spectral_silt,8,1,7;bountifulbaubles:broken_heart,1,1,2;bountifulbaubles:lucky_horseshoe,1,1,2;bountifulbaubles:bottled_cloud,1,1,2;bountifulbaubles:endless_pearl,1,1,2"
+	#丛林神庙战利品
+	#结构ID: minecraft:chests/jungle_temple
+	jungleTempleLoot = "bountifulbaubles:potion_wormhole,6,1,2;bountifulbaubles:potion_recall,7,1,2;bountifulbaubles:magic_mirror,2,1,2;bountifulbaubles:broken_black_dragon_scale,2,1,2;bountifulbaubles:spectral_silt,8,1,7;bountifulbaubles:curious_amulet,3,1,2;bountifulbaubles:curious_ring,3,1,2;bountifulbaubles:vampiric_glove,1,1,2;bountifulbaubles:gauntlets_dexterity,2,1,2"
+	#废弃矿井战利品
+	#结构ID: minecraft:chests/abandoned_mineshaft
+	abandonedMineshaftLoot = "bountifulbaubles:potion_wormhole,6,1,2;bountifulbaubles:potion_recall,7,1,2;bountifulbaubles:magic_mirror,2,1,2;bountifulbaubles:broken_black_dragon_scale,2,1,2;bountifulbaubles:spectral_silt,8,1,7;bountifulbaubles:sunglasses,3,1,2;bountifulbaubles:curious_crown,3,1,2;bountifulbaubles:auto_torch,3,1,2"
+	#要塞图书馆战利品
+	#结构ID: minecraft:chests/stronghold_library
+	strongholdLibraryLoot = "bountifulbaubles:potion_wormhole,6,1,2;bountifulbaubles:potion_recall,7,1,2;bountifulbaubles:magic_mirror,2,1,2;bountifulbaubles:broken_black_dragon_scale,2,1,2;bountifulbaubles:spectral_silt,8,1,7"
+	#林地府邸战利品
+	#结构ID: minecraft:chests/woodland_mansion
+	woodlandMansionLoot = "bountifulbaubles:potion_wormhole,6,1,2;bountifulbaubles:potion_recall,7,1,2;bountifulbaubles:magic_mirror,2,1,2;bountifulbaubles:broken_black_dragon_scale,2,1,2;bountifulbaubles:spectral_silt,8,1,7"
+	#村庄教堂战利品
+	#结构ID: minecraft:chests/village/village_temple
+	villageTempleLoot = "bountifulbaubles:potion_wormhole,6,1,2;bountifulbaubles:potion_recall,7,1,2;bountifulbaubles:magic_mirror,2,1,2;bountifulbaubles:broken_black_dragon_scale,2,1,2;bountifulbaubles:spectral_silt,8,1,7"
+	#沉船宝箱战利品
+	#结构ID: minecraft:chests/shipwreck_treasure
+	shipwreckTreasureLoot = "bountifulbaubles:potion_wormhole,6,1,2;bountifulbaubles:potion_recall,7,1,2;bountifulbaubles:magic_mirror,2,1,2;bountifulbaubles:broken_black_dragon_scale,2,1,2;bountifulbaubles:spectral_silt,8,1,7"
+	#掠夺者前哨站战利品
+	#结构ID: minecraft:chests/pillager_outpost
+	pillagerOutpostLoot = "bountifulbaubles:potion_wormhole,6,1,2;bountifulbaubles:potion_recall,7,1,2;bountifulbaubles:magic_mirror,2,1,2;bountifulbaubles:broken_black_dragon_scale,2,1,2;bountifulbaubles:spectral_silt,8,1,7;bountifulbaubles:black_dragon_scale,3,1,2;bountifulbaubles:phylactery_charm,1,1,2"
+	#埋藏的宝藏战利品
+	#结构ID: minecraft:chests/buried_treasure
+	buriedTreasureLoot = "bountifulbaubles:potion_wormhole,6,1,2;bountifulbaubles:potion_recall,6,1,2;bountifulbaubles:wormhole_mirror,1,1,2;bountifulbaubles:broken_black_dragon_scale,2,1,2;bountifulbaubles:spectral_silt,8,1,7"
+	#大型海底废墟战利品
+	#结构ID: minecraft:chests/underwater_ruin_big
+	underwaterRuinBigLoot = "bountifulbaubles:potion_wormhole,6,1,2;bountifulbaubles:potion_recall,3,1,2;bountifulbaubles:magic_mirror,2,1,2;bountifulbaubles:broken_black_dragon_scale,2,1,2;bountifulbaubles:spectral_silt,8,1,7"
+	#小型海底废墟战利品
+	#结构ID: minecraft:chests/underwater_ruin_small
+	underwaterRuinSmallLoot = "bountifulbaubles:potion_wormhole,6,1,2;bountifulbaubles:potion_recall,7,1,2;bountifulbaubles:magic_mirror,2,1,2;bountifulbaubles:broken_black_dragon_scale,2,1,2;bountifulbaubles:spectral_silt,8,1,7"
+	#雪屋地下室战利品
+	#结构ID: minecraft:chests/igloo_chest
+	iglooChestLoot = "bountifulbaubles:potion_wormhole,6,1,2;bountifulbaubles:potion_recall,7,1,2;bountifulbaubles:magic_mirror,2,1,2;bountifulbaubles:broken_black_dragon_scale,2,1,2;bountifulbaubles:spectral_silt,8,1,7"
+	#小型地牢战利品
+	#结构ID: minecraft:chests/simple_dungeon
+	simpleDungeonLoot = "bountifulbaubles:potion_wormhole,6,1,2;bountifulbaubles:potion_recall,7,1,2;bountifulbaubles:magic_mirror,2,1,2;bountifulbaubles:broken_black_dragon_scale,2,1,2;bountifulbaubles:spectral_silt,8,1,7;bountifulbaubles:balloon,3,1,1;bountifulbaubles:cobalt_shield,3,1,1;bountifulbaubles:auto_torch,3,1,2"
+	#要塞走廊战利品
+	#结构ID: minecraft:chests/stronghold_corridor
+	strongholdCorridorLoot = "bountifulbaubles:potion_wormhole,6,1,2;bountifulbaubles:potion_recall,7,1,2;bountifulbaubles:magic_mirror,2,1,2;bountifulbaubles:broken_black_dragon_scale,2,1,2;bountifulbaubles:spectral_silt,8,1,7"
+	#恐龙化石战利品
+	#结构ID: minecraft:chests/fossil_dinosaur
+	fossilDinosaurLoot = ""
+	#哺乳动物化石战利品
+	#结构ID: minecraft:chests/fossil_mammal
+	fossilMammalLoot = ""
+	#沉船补给箱战利品
+	#结构ID: minecraft:chests/shipwreck_supply
+	shipwreckSupplyLoot = "bountifulbaubles:potion_wormhole,3,1,2;bountifulbaubles:potion_recall,3,1,2;bountifulbaubles:magic_mirror,2,1,2;bountifulbaubles:broken_black_dragon_scale,2,1,2;bountifulbaubles:spectral_silt,8,1,7"
+	#林地府邸制图室战利品
+	#结构ID: minecraft:chests/woodland_mansion_cartography
+	woodlandCartographyLoot = "bountifulbaubles:potion_wormhole,3,1,2;bountifulbaubles:potion_recall,3,1,2;bountifulbaubles:magic_mirror,2,1,2;bountifulbaubles:broken_black_dragon_scale,2,1,2;bountifulbaubles:spectral_silt,8,1,7"
+	#要塞十字路口战利品
+	#结构ID: minecraft:chests/stronghold_crossing
+	strongholdCrossingLoot = "bountifulbaubles:potion_wormhole,3,1,2;bountifulbaubles:potion_recall,3,1,2;bountifulbaubles:magic_mirror,2,1,2;bountifulbaubles:broken_black_dragon_scale,2,1,2;bountifulbaubles:spectral_silt,8,1,7"
+	#沉船地图箱战利品
+	#结构ID: minecraft:chests/shipwreck_map
+	shipwreckMapLoot = "bountifulbaubles:potion_wormhole,3,1,2;bountifulbaubles:potion_recall,3,1,2;bountifulbaubles:magic_mirror,2,1,2;bountifulbaubles:broken_black_dragon_scale,2,1,2;bountifulbaubles:spectral_silt,8,1,7"
+	#堡垒遗迹宝藏室战利品
+	#结构ID: minecraft:chests/bastion_treasure
+	bastionTreasureLoot = "bountifulbaubles:potion_wormhole,6,1,2;bountifulbaubles:potion_recall,7,1,2;bountifulbaubles:magic_mirror,2,1,2;bountifulbaubles:broken_black_dragon_scale,2,1,2;bountifulbaubles:spectral_silt,8,1,7;bountifulbaubles:amulet_sin_empty,8,1,7;bountifulbaubles:curious_knuckles,2,1,1"
+	#堡垒遗迹桥梁战利品
+	#结构ID: minecraft:chests/bastion_bridge
+	bastionBridgeLoot = "bountifulbaubles:potion_wormhole,6,1,2;bountifulbaubles:potion_recall,7,1,2;bountifulbaubles:magic_mirror,2,1,2;bountifulbaubles:broken_black_dragon_scale,2,1,2;bountifulbaubles:spectral_silt,8,1,7;bountifulbaubles:amulet_sin_empty,5,1,3;bountifulbaubles:curious_knuckles,2,1,1"
+	#堡垒遗迹居住区战利品
+	#结构ID: minecraft:chests/bastion_housing
+	bastionHousingLoot = "bountifulbaubles:potion_wormhole,6,1,2;bountifulbaubles:potion_recall,7,1,2;bountifulbaubles:magic_mirror,2,1,2;bountifulbaubles:broken_black_dragon_scale,2,1,2;bountifulbaubles:spectral_silt,8,1,7;bountifulbaubles:amulet_sin_empty,5,1,3;bountifulbaubles:curious_knuckles,2,1,1"
+	#堡垒遗迹杂项战利品
+	#结构ID: minecraft:chests/bastion_other
+	bastionOtherLoot = "bountifulbaubles:potion_wormhole,6,1,2;bountifulbaubles:potion_recall,7,1,2;bountifulbaubles:magic_mirror,2,1,2;bountifulbaubles:broken_black_dragon_scale,2,1,2;bountifulbaubles:spectral_silt,8,1,7;bountifulbaubles:amulet_sin_empty,5,1,3;bountifulbaubles:curious_knuckles,2,1,1"
+	#废弃传送门战利品
+	#结构ID: minecraft:chests/ruined_portal
+	ruinedPortalLoot = "bountifulbaubles:potion_wormhole,6,1,2;bountifulbaubles:potion_recall,7,1,2;bountifulbaubles:magic_mirror,2,1,2;bountifulbaubles:broken_black_dragon_scale,2,1,2;bountifulbaubles:spectral_silt,8,1,7;bountifulbaubles:obsidian_skull,3,1,2;bountifulbaubles:auto_torch,3,1,2"
+	#末地城战利品
+	#结构ID: minecraft:chests/end_city_treasure
+	endCityLoot = "bountifulbaubles:wrath_pendant,5,1,3;bountifulbaubles:gluttony_pendant,3,1,2;bountifulbaubles:pride_pendant,3,1,2"
+	#远古城市战利品
+	#结构ID: minecraft:chests/ancient_city
+	ancientCityLoot = "bountifulbaubles:wrath_pendant,5,1,3;bountifulbaubles:gluttony_pendant,3,1,2;bountifulbaubles:pride_pendant,3,1,2;bountifulbaubles:cross_necklace,3,1,2"
+	#盔甲匠小屋 (盔甲匠)
+	#结构ID: minecraft:chests/village/village_armorer
+	villageArmorerLoot = ""
+	#屠夫商店 (屠夫)
+	#结构ID: minecraft:chests/village/village_butcher
+	villageButcherLoot = ""
+	#制图师小屋 (制图师)
+	#结构ID: minecraft:chests/village/village_cartographer
+	villageCartographerLoot = ""
+	#平原农舍 (农民)
+	#结构ID: minecraft:chests/village/village_plains_house
+	villagePlainsHouseLoot = ""
+	#渔夫小屋 (渔夫)
+	#结构ID: minecraft:chests/village/village_fisher
+	villageFisherLoot = ""
+	#制箭师小屋 (制箭师)
+	#结构ID: minecraft:chests/village/village_fletcher
+	villageFletcherLoot = ""
+	#制革厂 (皮匠)
+	#结构ID: minecraft:chests/village/village_tannery
+	villageTanneryLoot = ""
+	#图书馆 (图书管理员)
+	#结构ID: minecraft:chests/village/village_library
+	villageLibraryLoot = ""
+	#石匠小屋 (石匠)
+	#结构ID: minecraft:chests/village/village_mason
+	villageMasonLoot = ""
+	#牧羊人小屋 (牧羊人)
+	#结构ID: minecraft:chests/village/village_shepherd
+	villageShepherdLoot = ""
+	#工具匠小屋 (工具匠)
+	#结构ID: minecraft:chests/village/village_toolsmith
+	villageToolsmithLoot = ""
+	#武器匠小屋 (武器匠)
+	#结构ID: minecraft:chests/village/village_weaponsmith
+	villageWeaponsmithLoot = ""
+	#沙漠村庄房屋 (失业村民)
+	#结构ID: minecraft:chests/village/village_desert_house
+	villageDesertHouseLoot = ""
+	#雪原村庄房屋
+	#结构ID: minecraft:chests/village/village_snowy_house
+	villageSnowyHouseLoot = ""
+	#热带草原村庄房屋
+	#结构ID: minecraft:chests/village/village_savanna_house
+	villageSavannaHouseLoot = ""
+	#针叶林村庄房屋
+	#结构ID: minecraft:chests/village/village_taiga_house
+	villageTaigaHouseLoot = ""
+

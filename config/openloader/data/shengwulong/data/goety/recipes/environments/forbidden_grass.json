@@ -1,0 +1,13 @@
+{
+	"type": "cagedmobs:environment_data",
+	"forge:condition": {
+			"type": "forge:mod_loaded",
+			"modid": "goety"
+	},
+	"input": {
+		"item": "goety:forbidden_grass"
+	},
+	"render": "goety:forbidden_grass",
+	"growModifier": 2.0,
+	"categories": ["goety"]
+}

@@ -1,0 +1,28 @@
+{
+  "item.murasame.murasamemaru": "§d名刀§2「丛雨丸」",
+  "item.murasame.murasamemaru_awakened": "§6神刀§a「丛雨丸」",
+  "item.murasame.congyuwan": "§e觉醒·§6神刀§a「丛雨丸」",
+
+  "block.murasame.embedded_stone": "嵌刀石",
+  "block.murasame.empty_stone": "空嵌刀石",
+
+  "message.murasame.need_level": "丛雨丸拒绝了你，你需要更多经验（经验等级大于50）",
+  "message.murasame.need_more_undead_kills": "丛雨丸拒绝了你，你需要证明你除秽的能力（击杀亡灵生物总数大于500）",
+  "message.murasame.need_more_buffs": "丛雨丸拒绝了你，你需要更多力量（携带五种正面效果）",
+  "message.murasame.evolved": "§6§k111§a丛雨丸觉醒了刀魂§6§k111",
+
+  "advancements.murasame.get_murasame.title": "§6传说之刃",
+  "advancements.murasame.get_murasame.description": "从石头中拔出丛雨丸",
+
+  "entity.murasame.soul": "丛雨",
+
+  "itemGroup.murasame_tab": "丛雨",
+
+  "se.murasame.murasame_blessing": "§a丛雨祝福",
+
+  "slash_art.murasame.spatial_slash": "§e§k11§d空间斩§e§k11",
+
+  "key.murasame.toggle_soul": "隐藏/显示刀魂实体",
+
+  "category.murasame": "丛雨"
+}

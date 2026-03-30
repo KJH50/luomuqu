@@ -1,0 +1,34 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:power",
+      "lvl": 3
+    },
+    {
+      "id": "minecraft:unbreaking",
+      "lvl": 3
+    },
+    {
+      "id": "minecraft:mending"
+    },
+    {
+      "id": "minecraft:sharpness",
+      "lvl": 3
+    }
+  ],
+  "name": "yakumoblade:ye_soul",
+  "properties": {
+    "attack_base": 17.0,
+    "max_damage": 180,
+    "slash_art": "slashblade:circle_slash",
+    "special_effects": [
+      "yakumoblade:star_soul",
+      "yakumoblade:very_blue"
+    ]
+  },
+  "render": {
+    "model": "yakumoblade:model/named/yasha/yasha_true.obj",
+    "summon_sword_color": 3091266,
+    "texture": "yakumoblade:model/named/yasha/ye_soul.png"
+  }
+}

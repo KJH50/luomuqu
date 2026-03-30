@@ -1,0 +1,9 @@
+{
+  "simplebackups.backup_started": "正在努力备份存档！",
+  "simplebackups.backup_finished": "酱酱！备份成功，耗时 %s (%s | %s)",
+  "simplebackups.backups_paused": "备份已暂停",
+  "simplebackups.commands.only_modified": "并非仅备份已修改的文件，请检查配置文件",
+  "simplebackups.commands.is_merging": "合并操作已在进行中",
+  "simplebackups.commands.finished": "备份合并已成功完成",
+  "simplebackups.not_enough_space": "呜哇...磁盘被塞满了，备份已终止"
+}

@@ -1,0 +1,25 @@
+{
+  "block.skyarena.altar_battle": "§5挑战",
+  "block.skyarena.altar_battle_top": "§5挑战",
+  "block.skyarena.netherite_trophy": "§6下界合金奖杯",
+  "block.skyarena.oak_trophy": "§6树木奖杯",
+  "block.skyarena.stone_trophy": "§6石奖杯",
+  "block.skyarena.iron_trophy": "§6铁奖杯",
+  "block.skyarena.gold_trophy": "§6金奖杯",
+  "block.skyarena.diamond_trophy": "§6钻石奖杯",
+
+  "item.skyarena.forest_key": "§b森林钥匙",
+  "item.skyarena.crimson_key": "§b绯红钥匙",
+  "item.skyarena.desert_key": "§b沙漠钥匙",
+  "item.skyarena.ice_key": "§b冰钥匙",
+  "item.skyarena.ender_key": "§b末影钥匙",
+
+  "creativetab.skyarena_tab": "天空竞技场 Tab",
+
+  "tooltip.skyarena.reward_key": "§8Shift + 右键单击空箱子以领取您的奖励.",
+  "tooltip.skyarena.trophy": "§8右键单击方块以获得增益！",
+
+  "message.skyarena.difficult_level": "难度级别: ",
+  "message.skyarena.current_points": "当前点: ",
+  "message.skyarena.peaceful_disabled": "更改难度级别"
+}

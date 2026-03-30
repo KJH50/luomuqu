@@ -1,0 +1,47 @@
+{
+  "message.pickablepets.blacklist": "Pet is blacklisted.",
+  "message.pickablepets.inventory_full": "At max number of pets in inventory.",
+  "message.pickablepets.dead": "Pet is dead.",
+  "message.pickablepets.baby": "Can only pick adult pets.",
+  "message.pickablepets.sleep": "Pet is sleeping.",
+  "message.pickablepets.far": "Pet is too far.",
+  "message.pickablepets.noxp": "Not enough levels to pickup pet.",
+  "message.pickablepets.full_inventory": "Inventory is full.",
+  "message.pickablepets.spawn": "No valid spawn positions around the altar.",
+  "message.pickablepets.notop": "Can only be used by OPs.",
+  "message.pickablepets.notaltar": "Target is not an Revive Altar.",
+
+  "tooltip.pickablepets.empty": "Invalid item! Use spawn egg instead.",
+  "tooltip.pickablepets.owner": "§6主人: §r%s",
+  "tooltip.pickablepets.altar": "§5是否绑定已经绑定“仆从复活祭坛”？ §r%s",
+
+  "text.autoconfig.pickablepets.option.SneakRightClick": "Sneak Right-Click",
+  "text.autoconfig.pickablepets.option.SneakRightClick.@Tooltip": "Enable / Disable sneak + right-Click pickup ability.",
+  "text.autoconfig.pickablepets.option.KeyShortcut": "Key Shortcut",
+  "text.autoconfig.pickablepets.option.KeyShortcut.@Tooltip": "Enable / Disable key shortcut pickup ability.",
+  "text.autoconfig.pickablepets.option.OnlyAdults": "Only Adults",
+  "text.autoconfig.pickablepets.option.OnlyAdults.@Tooltip": "Enable / Disable picking up baby Villagers.",
+  "text.autoconfig.pickablepets.option.PickupDistance": "Pickup Distance",
+  "text.autoconfig.pickablepets.option.PickupDistance.@Tooltip": "Controls the pickup distance.\n§2min = 0\n§amax = 100\n§4disabled = 0",
+  "text.autoconfig.pickablepets.option.PickupCost": "Pickup Cost",
+  "text.autoconfig.pickablepets.option.PickupCost.@Tooltip": "Controls the pickup cost.\n§2min = 0\n§amax = 100\n§4disabled = 0",
+  "text.autoconfig.pickablepets.option.MaxPetsInInventory": "Max Pets In Inventory",
+  "text.autoconfig.pickablepets.option.MaxPetsInInventory.@Tooltip": "Controls the amount of pets that can be in the inventory at the same time.\n§2min = 0\n§amax = 1000\n§4disabled = 0",
+
+  "text.autoconfig.pickablepets.option.BlacklistedPets": "Blacklisted Pets",
+  "text.autoconfig.pickablepets.option.BlacklistedPets.@Tooltip": "List of pets not to be picked up. [modid]:[petid] ex:\"minecraft:wolf\"",
+  "text.autoconfig.pickablepets.option.BlacklistedMods": "Blacklisted Mods",
+  "text.autoconfig.pickablepets.option.BlacklistedMods.@Tooltip": "List of mods to not interact with. [modid] ex:\"minecraft\"",
+
+  "text.autoconfig.pickablepets.option.ReviveAltar": "Revive Altar",
+  "text.autoconfig.pickablepets.option.ReviveAltar.@Tooltip": "Enables/Disables revive altar.",
+  "text.autoconfig.pickablepets.option.ReviveAltarParticles": "Revive Altar Particles",
+  "text.autoconfig.pickablepets.option.ReviveAltarParticles.@Tooltip": "Controls the visibility of the altar particles.",
+  "text.autoconfig.pickablepets.option.ReviveAltarReviveItem": "Revive Altar Revive Item",
+  "text.autoconfig.pickablepets.option.ReviveAltarReviveItem.@Tooltip": "Item consumed to revive pets in the altar.",
+
+  "key.pickablepets.pickup": "Pickup",
+  "category.pickablepets.mod": "Pickable Pets",
+
+  "block.pickablepets.altar": "仆从复活祭坛"
+}

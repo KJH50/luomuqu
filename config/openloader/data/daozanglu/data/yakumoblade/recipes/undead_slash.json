@@ -1,0 +1,46 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "yakumoblade:undead_slash",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "tarotcards:the_tower"
+    },
+    "B": {
+      "item": "goety:unholy_blood"
+    },
+    "D": {
+      "item": "cataclysm:infernal_forge"
+    },
+    "N": {
+      "item": "cagedmobs:star_infused_netherite_ingot"
+    },
+    "R": {
+      "item": "cataclysm:tidal_claws"
+    },
+    "T": {
+      "item": "dreadsteel:dreadsteel_ingot"
+    },
+    "W": {
+      "item": "irons_spellbooks:ruined_book"
+    },
+    "X": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 721,
+        "name": "cialloblade:ciallo",
+        "refine": 100
+      }
+    }
+  },
+  "pattern": [
+    "WTA",
+    "DXT",
+    "NRB"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,19 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": {
+      "text": "ShH's ",
+      "color": "#1340d6ff",
+      "extra": [
+        {
+          "text": "Caged Mobs Recipes",
+          "color": "#30bff8ff"
+        },
+        {
+          "text": " (1.20.1)",
+          "color": "#91c1caff"
+        }
+      ]
+    }
+  }
+}

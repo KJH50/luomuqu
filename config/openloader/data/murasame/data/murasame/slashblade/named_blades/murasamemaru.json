@@ -1,0 +1,32 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:sharpness",
+      "lvl": 5
+    },
+    {
+      "id": "minecraft:fire_aspect",
+      "lvl": 2
+    }
+  ],
+  "item": "slashblade:slashblade",
+  "name": "murasame:murasamemaru",
+  "properties": {
+    "attack_base": 18.0,
+    "max_damage": 150,
+    "slash_art": "slashblade:wave_edge",
+    "special_effects": [
+
+    ],
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "carry_type": "default",
+    "model": "murasame:models/murasame/murasamemaru.obj",
+    "texture": "murasame:models/murasame/murasamemaru.png",
+    "summon_sword_color": 65350
+    
+  }
+}

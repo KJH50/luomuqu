@@ -1,0 +1,32 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "slashblade_addon:crimsoncherry",
+  "category": "equipment",
+  "key": {
+    "D": {
+      "item": "minecraft:gold_block"
+    },
+    "E": {
+      "item": "soulsweapons:withered_demon_heart"
+    },
+    "U": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 1300,
+        "name": "slashblade_addon:nihilex",
+        "proud_soul": 5000,
+        "refine": 3
+      }
+    }
+  },
+  "pattern": [
+    "DUD",
+    "DED",
+    "DDD"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

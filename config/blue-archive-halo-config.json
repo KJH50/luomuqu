@@ -1,0 +1,92 @@
+{
+    "levels": {
+        "4": {
+            "rings": [
+                {
+                    "index": 0,
+                    "maxRadius": 75.0,
+                    "r": 75.0,
+                    "width": 2.5135136,
+                    "style": 0
+                },
+                {
+                    "index": 1,
+                    "maxRadius": 150.0,
+                    "r": 95.772354,
+                    "width": 2.5135136
+                },
+                {
+                    "index": 2,
+                    "maxRadius": 225.0,
+                    "r": 115.0,
+                    "width": 2.5135136
+                },
+                {
+                    "index": 3,
+                    "maxRadius": 300.0,
+                    "r": 135.71138,
+                    "width": 2.5135136
+                }
+            ],
+            "henght": 215.6691,
+            "level": 4
+        },
+        "1": {
+            "rings": [
+                {
+                    "index": 0,
+                    "maxRadius": 150.0,
+                    "r": 75.731705,
+                    "width": 2.5135136,
+                    "style": 0
+                }
+            ],
+            "level": 1
+        },
+        "3": {
+            "rings": [
+                {
+                    "index": 0,
+                    "maxRadius": 83.333336,
+                    "r": 75.37263,
+                    "width": 2.5135136
+                },
+                {
+                    "index": 1,
+                    "maxRadius": 166.66667,
+                    "r": 95.69106,
+                    "width": 2.5135136
+                },
+                {
+                    "index": 2,
+                    "maxRadius": 250.0,
+                    "r": 115.54878,
+                    "width": 2.5135136
+                }
+            ],
+            "level": 3
+        },
+        "2": {
+            "rings": [
+                {
+                    "index": 0,
+                    "maxRadius": 100.0,
+                    "r": 75.28455,
+                    "width": 2.5135136
+                },
+                {
+                    "index": 1,
+                    "maxRadius": 200.0,
+                    "r": 95.36585,
+                    "width": 2.5135136
+                }
+            ],
+            "level": 2
+        }
+    },
+    "baseAlpha": 0.37323943,
+    "spacingAlpha": 0.35211268,
+    "spacingCount": 8,
+    "mixWhite": 0.24647887,
+    "pulseTail": 0.50985914
+}

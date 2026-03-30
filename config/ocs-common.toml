@@ -1,0 +1,6 @@
+
+["Particle Settings"]
+	#Percentage of campfire smoke particles to eliminate (0.01 = 1%, 1.0 = 100%)
+	#Range: 0.01 ~ 1.0
+	"Elimination of campfire smoke" = 0.65
+

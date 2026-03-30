@@ -1,0 +1,16 @@
+
+#重锋晕眩效果设置
+["所有设置"]
+	#禁用重锋的眩晕效果Disable SlashBlade: The dizziness effect of Resharped
+	"重锋眩晕效果设置" = true
+
+	["所有设置"."效果平衡设置"]
+		#启用攻击附加缓慢效果Enable attack with additional slow effects
+		"启用缓慢效果" = false
+		#缓慢效果等级 (0=Ⅰ级, 1=Ⅱ级)Slow effect level (0=Level I, 1=Level II)
+		#Range: 0 ~ 3
+		"缓慢效果等级" = 1
+		#效果持续时间（单位：刻，20刻=1秒）Duration of Effect (Unit: Moment, 20 Moments=1 Second)
+		#Range: 20 ~ 600
+		"持续时间" = 60
+

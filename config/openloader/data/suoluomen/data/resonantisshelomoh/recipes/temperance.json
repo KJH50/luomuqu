@@ -1,0 +1,40 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "resonantisshelomoh:temperance",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "minecraft:feather"
+    },
+    "B": {
+      "item": "minecraft:feather"
+    },
+    "C": {
+      "item": "soulsweapons:moonstone"
+    },
+    "D": {
+      "item": "minecraft:feather"
+    },
+    "E": {
+      "item": "soulsweapons:moonstone"
+    },
+    "F": {
+      "item": "slashblade:slashblade"
+    },
+    "G": {
+      "item": "minecraft:gold_block"
+    },
+    "H": {
+      "item": "ringsofascension:ring_steadfast_steps"
+    }
+  },
+  "pattern": [
+    "ABC",
+    "DED",
+    "FGH"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,15 @@
+{
+  "name": "slashblade_addon:tachi",
+  "properties": {
+    "attack_base": 3.0,
+    "max_damage": 457,
+    "sword_type": [
+      "none"
+    ]
+  },
+  "render": {
+    "carry_type": "default",
+    "model": "slashblade_addon:model/wa/wa.obj",
+    "texture": "slashblade_addon:model/wa/tachi.png"
+  }
+}

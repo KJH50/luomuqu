@@ -1,0 +1,13 @@
+{
+	"type": "cagedmobs:environment_data",
+	"forge:condition": {
+			"type": "forge:mod_loaded",
+			"modid": "irons_spellbooks"
+	},
+	"input": {
+		"item": "minecraft:budding_amethyst"
+	},
+	"render": "minecraft:budding_amethyst",
+	"growModifier": 1.5,
+	"categories": ["irons_spellbooks"]
+}

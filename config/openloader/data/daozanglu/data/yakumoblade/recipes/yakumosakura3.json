@@ -1,0 +1,43 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "yakumoblade:yakumosakura3",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "minecraft:purple_bed"
+    },
+    "D": {
+      "item": "touhou_little_maid:wireless_io"
+    },
+    "E": {
+      "item": "minecraft:nether_star"
+    },
+    "F": {
+      "item": "minecraft:spyglass"
+    },
+    "G": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "I": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 1600,
+        "name": "yakumoblade:yakumosakura2",
+        "proud_soul": 10000
+      }
+    },
+    "S": {
+      "item": "minecraft:end_crystal"
+    }
+  },
+  "pattern": [
+    "SEF",
+    "GDE",
+    "IAS"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

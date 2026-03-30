@@ -1,0 +1,19 @@
+
+#Client Settings
+[client]
+	#theme textures path, can be external path: config/sakura_sign_in/themes/your_theme.png
+	#主题材质路径，可为外部路径： config/sakura_sign_in/themes/your_theme.png
+	theme = "textures/gui/sign_in_calendar_maple.png"
+	#Whether or not to use the built-in theme special icons.
+	#是否使用内置主题特殊图标。
+	specialTheme = false
+	#The sign-in page displays last month's rewards. Someone said it didn't look good on display.
+	#签到页面是否显示上个月的奖励，有人说它显示出来不好看。
+	showLastReward = false
+	#The sign-in page displays next month's rewards. Someone said it didn't look good on display.
+	#签到页面是否显示下个月的奖励，有人说它显示出来不好看。
+	showNextReward = false
+	#Whether the rewards will be automatically claimed when you sign in or re-sign-in.
+	#签到或补签时是否自动领取奖励。
+	autoRewarded = false
+

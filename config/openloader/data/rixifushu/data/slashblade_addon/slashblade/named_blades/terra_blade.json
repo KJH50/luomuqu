@@ -1,0 +1,26 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:power"
+    }
+  ],
+  "name": "slashblade_addon:terra_blade",
+  "properties": {
+    "attack_base": 6.0,
+    "max_damage": 60,
+    "slash_art": "slashblade_addon:blistering_terra_swords",
+    "special_effects": [
+      "slashblade_addon:mana_burst",
+      "slashblade_addon:mana_repair"
+    ],
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "carry_type": "rninja",
+    "model": "slashblade_addon:model/terra/terra.obj",
+    "summon_sword_color": 3524113,
+    "texture": "slashblade_addon:model/terra/terra.png"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "slashblade:rodai_iron",
+  "properties": {
+    "max_damage": 250
+  },
+  "render": {
+    "texture": "slashblade:model/rodai_iron.png"
+  }
+}

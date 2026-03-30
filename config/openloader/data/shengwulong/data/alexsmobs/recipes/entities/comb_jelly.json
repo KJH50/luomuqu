@@ -1,0 +1,144 @@
+{
+	"type": "cagedmobs:entity_data",
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexsmobs"
+		}
+	],
+	"entity": "alexsmobs:comb_jelly",
+	"samplerTier": 2,
+	"environments": ["cave"],
+	"growTicks": 800,
+	"results": [
+        {
+            "chance": 0.8,
+            "output": {
+                "item": "minecraft:white_concrete"
+            },
+            "minAmount": 3,
+            "maxAmount": 6
+        },
+        {
+            "chance": 0.8,
+            "output": {
+                "item": "minecraft:light_gray_concrete"
+            },
+            "minAmount": 3,
+            "maxAmount": 6
+        },
+        {
+            "chance": 0.8,
+            "output": {
+                "item": "minecraft:gray_concrete"
+            },
+            "minAmount": 3,
+            "maxAmount": 8
+        },
+        {
+            "chance": 0.8,
+            "output": {
+                "item": "minecraft:black_concrete"
+            },
+            "minAmount": 3,
+            "maxAmount": 6
+        },
+        {
+            "chance": 0.8,
+            "output": {
+                "item": "minecraft:brown_concrete"
+            },
+            "minAmount": 3,
+            "maxAmount": 6
+        },
+        {
+            "chance": 0.8,
+            "output": {
+                "item": "minecraft:red_concrete"
+            },
+            "minAmount": 3,
+            "maxAmount": 6
+        },
+        {
+            "chance": 0.8,
+            "output": {
+                "item": "minecraft:orange_concrete"
+            },
+            "minAmount": 3,
+            "maxAmount": 6
+        },
+        {
+            "chance": 0.8,
+            "output": {
+                "item": "minecraft:yellow_concrete"
+            },
+            "minAmount": 3,
+            "maxAmount": 6
+        },
+        {
+            "chance": 0.8,
+            "output": {
+                "item": "minecraft:lime_concrete"
+            },
+            "minAmount": 3,
+            "maxAmount": 6
+        },
+        {
+            "chance": 0.8,
+            "output": {
+                "item": "minecraft:pink_concrete"
+            },
+            "minAmount": 3,
+            "maxAmount": 6
+        },
+        {
+            "chance": 0.8,
+            "output": {
+                "item": "minecraft:magenta_concrete"
+            },
+            "minAmount": 3,
+            "maxAmount": 6
+        },
+        {
+            "chance": 0.8,
+            "output": {
+                "item": "minecraft:purple_concrete"
+            },
+            "minAmount": 3,
+            "maxAmount": 6
+        },
+        {
+            "chance": 0.8,
+            "output": {
+                "item": "minecraft:blue_concrete"
+            },
+            "minAmount": 3,
+            "maxAmount": 6
+        },
+        {
+            "chance": 0.8,
+            "output": {
+                "item": "minecraft:light_blue_concrete"
+            },
+            "minAmount": 3,
+            "maxAmount": 6
+        },
+        {
+            "chance": 0.8,
+            "output": {
+                "item": "minecraft:cyan_concrete"
+            },
+            "minAmount": 3,
+            "maxAmount": 6
+        },
+        {
+            "chance": 0.8,
+            "output": {
+                "item": "minecraft:green_concrete"
+            },
+            "minAmount": 3,
+            "maxAmount": 6
+        }
+	]
+	
+}

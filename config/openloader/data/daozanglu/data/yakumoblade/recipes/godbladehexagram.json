@@ -1,0 +1,56 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "yakumoblade:godbladehexagram",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "butcher:enderdragoncorpse"
+    },
+    "B": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 100,
+        "name": "slashblade:fox_black"
+      }
+    },
+    "D": {
+      "tag": "forge:storage_blocks/diamond"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    },
+    "R": {
+      "tag": "forge:storage_blocks/redstone"
+    },
+    "T": {
+      "item": "slashblade:proudsoul_sphere"
+    },
+    "W": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 100,
+        "name": "slashblade:fox_white"
+      }
+    },
+    "X": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 600,
+        "name": "yakumoblade:star",
+        "refine": 50
+      }
+    }
+  },
+  "pattern": [
+    "WTA",
+    "DXT",
+    "NRB"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

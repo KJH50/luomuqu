@@ -1,0 +1,23 @@
+{
+  "enchantment.enchanted_arsenal.lightweight": "轻装简从",
+  "enchantment.enchanted_arsenal.hollow_point": "空尖弹",
+  "enchantment.enchanted_arsenal.curse_of_overrecoiling": "恐惧",
+  "enchantment.enchanted_arsenal.juggernaught.desc": "持有时，给予缓慢和抗性提升",
+  "enchantment.enchanted_arsenal.curse_of_overpressuring": "盐井瞎",
+  "enchantment.enchanted_arsenal.poison_tipped.desc": "被攻击的敌人会中毒",
+  "enchantment.enchanted_arsenal.hollow_point.desc": "有几率造成额外半颗心伤害，等级越高，几率越高",
+  "enchantment.enchanted_arsenal.curse_of_overpressuring.desc": "射击时失明",
+  "enchantment.enchanted_arsenal.armour_peircing.desc": "会对你的命中目标护甲造成伤害，等级决定了对护甲造成的伤害数量",
+  "enchantment.enchanted_arsenal.illuminating": "照明",
+  "enchantment.enchanted_arsenal.illuminating.desc": "使被攻击的敌人短暂发光",
+  "enchantment.enchanted_arsenal.juggernaught": "重甲",
+  "enchantment.enchanted_arsenal.enflamed": "火焰子弹",
+  "enchantment.enchanted_arsenal.poison_tipped": "毒药子弹",
+  "enchantment.enchanted_arsenal.lightweight.desc": "持有提高移速",
+  "enchantment.enchanted_arsenal.shell_shock.desc": "被攻击的敌人会短暂失明",
+  "enchantment.enchanted_arsenal.shell_shock": "炮弹冲击",
+  "enchantment.enchanted_arsenal.armour_piercing": "盔甲刺穿",
+  "enchantment.enchanted_arsenal.armour_piercing.desc": "增加枪械护甲耐久破坏力",
+  "enchantment.enchanted_arsenal.curse_of_overrecoiling.desc": "射击时，获得缓慢buff",
+  "enchantment.enchanted_arsenal.enflamed.desc": "被攻击的敌人会被点燃"
+}

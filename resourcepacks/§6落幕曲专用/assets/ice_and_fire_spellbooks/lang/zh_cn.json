@@ -1,0 +1,65 @@
+{
+
+   "item.ice_and_fire_spellbooks.dragonmancers_oathbook":"龙血术士的祷告词",
+
+    "item.ice_and_fire_spellbooks.dragon_priest_staff":"巨龙祭司之杖",
+
+    "item.ice_and_fire_spellbooks.crimson_dragon_priest_staff": "龙炎祭司之杖",
+
+    "item.ice_and_fire_spellbooks.silver_dragon_priest_staff": "龙霜祭司之杖",
+
+    "item.ice_and_fire_spellbooks.thunderous_dragon_priest_staff": "龙霆祭司之杖",
+
+
+
+     "item.ice_and_fire_spellbooks.fire_dragon_priest_helmet":"龙炎祭司兜鍪",
+
+     "item.ice_and_fire_spellbooks.fire_dragon_priest_chestplate":"龙炎祭司战袍",
+
+     "item.ice_and_fire_spellbooks.fire_dragon_priest_leggings":"龙炎祭司护膝",
+
+     "item.ice_and_fire_spellbooks.fire_dragon_priest_boots":"龙炎祭司踏靴",
+
+
+
+     "item.ice_and_fire_spellbooks.ice_dragon_priest_helmet":"龙霜祭司兜鍪",
+
+     "item.ice_and_fire_spellbooks.ice_dragon_priest_chestplate":"龙霜祭司战袍",
+
+     "item.ice_and_fire_spellbooks.ice_dragon_priest_leggings":"龙霜祭司护膝",
+
+     "item.ice_and_fire_spellbooks.ice_dragon_priest_boots":"龙霜祭司踏靴",
+
+
+
+     "item.ice_and_fire_spellbooks.lightning_dragon_priest_helmet":"龙霆祭司兜鍪",
+
+     "item.ice_and_fire_spellbooks.lightning_dragon_priest_chestplate":"龙霆祭司战袍",
+
+     "item.ice_and_fire_spellbooks.lightning_dragon_priest_leggings":"龙霆祭司护膝",
+
+     "item.ice_and_fire_spellbooks.lightning_dragon_priest_boots":"龙霆祭司踏靴",
+
+
+
+    "item.ice_and_fire_spellbooks.toornahkriin": "炽焰之面",
+
+    "item.ice_and_fire_spellbooks.fodaan": "冰霜之面",
+
+    "item.ice_and_fire_spellbooks.vulonqo": "雷霆之面",
+
+    "item.ice_and_fire_spellbooks.vulnilviir": "末影之面",
+
+    "item.ice_and_fire_spellbooks.vulsilah": "远古巫术之面",
+
+
+
+    "item.ice_and_fire_spellbooks.wooden_mask": "木制面具",
+
+    "item.wooden_mask.tooltip": "面具以一种奇怪的频率震动，也许可以对其调频？[制作中]",
+
+
+
+    "tab.ice_and_fire_spellbooks.armor": "冰火传说的魔法书"
+
+}

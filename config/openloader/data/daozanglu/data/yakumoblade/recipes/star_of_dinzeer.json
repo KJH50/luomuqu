@@ -1,0 +1,54 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "yakumoblade:star_of_dinzeer",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "yakumoblade:umle"
+    },
+    "B": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "name": "slashblade_addon:kirisaya"
+      }
+    },
+    "D": {
+      "item": "soulsweapons:chaos_robes"
+    },
+    "N": {
+      "item": "soulsweapons:withered_wabbajack"
+    },
+    "R": {
+      "item": "soulsweapons:chaos_crown"
+    },
+    "T": {
+      "item": "alexscaves:immortal_embryo"
+    },
+    "W": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "name": "slashblade_addon:dark_raven"
+      }
+    },
+    "X": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 1000,
+        "name": "yakumoblade:star",
+        "refine": 40
+      }
+    }
+  },
+  "pattern": [
+    "WTA",
+    "DXT",
+    "NRB"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

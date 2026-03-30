@@ -1,0 +1,31 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:power",
+      "lvl": 3
+    },
+    {
+      "id": "minecraft:unbreaking",
+      "lvl": 3
+    },
+    {
+      "id": "minecraft:sharpness",
+      "lvl": 5
+    }
+  ],
+  "name": "yakumoblade:star_muasum",
+  "properties": {
+    "attack_base": 20.0,
+    "max_damage": 180,
+    "slash_art": "slashblade_addon:rapid_blistering_swords",
+    "special_effects": [
+      "yakumoblade:star_soul",
+      "yakumoblade:very_blue"
+    ]
+  },
+  "render": {
+    "model": "yakumoblade:model/named/murasama/murasama.obj",
+    "summon_sword_color": 2003199,
+    "texture": "yakumoblade:model/named/murasama/z.png"
+  }
+}

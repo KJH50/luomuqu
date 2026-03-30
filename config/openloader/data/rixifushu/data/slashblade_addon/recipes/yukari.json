@@ -1,0 +1,35 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "slashblade_addon:yukari",
+  "category": "equipment",
+  "key": {
+    "B": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "enchantments": [
+          {
+            "id": "minecraft:fire_aspect"
+          }
+        ],
+        "kill": 600,
+        "name": "slashblade:yuzukitukumo"
+      }
+    },
+    "I": {
+      "item": "irons_spellbooks:arcane_salvage"
+    },
+    "S": {
+      "item": "minecraft:netherite_scrap"
+    }
+  },
+  "pattern": [
+    "ISI",
+    "SBS",
+    "ISI"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

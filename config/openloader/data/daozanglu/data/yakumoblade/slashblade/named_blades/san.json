@@ -1,0 +1,30 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:sharpness",
+      "lvl": 4
+    },
+    {
+      "id": "minecraft:unbreaking",
+      "lvl": 3
+    },
+    {
+      "id": "minecraft:fire_aspect",
+      "lvl": 3
+    }
+  ],
+  "name": "yakumoblade:san",
+  "properties": {
+    "attack_base": 21.0,
+    "max_damage": 180,
+    "slash_art": "slashblade:sakura_end",
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "model": "yakumoblade:model/named/sange/sange.obj",
+    "summon_sword_color": 16769536,
+    "texture": "yakumoblade:model/named/sange/san.png"
+  }
+}

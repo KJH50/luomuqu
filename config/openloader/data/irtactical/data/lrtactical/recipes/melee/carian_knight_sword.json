@@ -1,0 +1,45 @@
+{
+  "type": "tacz:gun_smith_table_crafting",
+  "materials": [
+    {
+      "item": {
+        "item": "mowziesmobs:ice_crystal"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "minecraft:nether_star"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "irons_spellbooks:legendary_ink"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "irons_spellbooks:epic_ink"
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "item": "irons_spellbooks:rare_ink"
+      },
+      "count": 3
+    }
+  ],
+  "result": {
+    "type": "custom",
+    "group": "lrtactical:melee",
+    "item": {
+      "item": "lrtactical:melee",
+      "nbt": {
+        "MeleeWeaponId": "ab_wt:carian_knight_sword"
+      }
+    }
+  }
+}

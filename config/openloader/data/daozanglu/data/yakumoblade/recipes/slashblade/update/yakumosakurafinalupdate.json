@@ -1,0 +1,28 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "yakumoblade:yakumosakurafinal",
+  "category": "equipment",
+  "key": {
+    "B": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+
+        "name": "yakumoblade:yakumosakurafinal"
+
+      }
+    },
+    "Z": {
+      "item": "slashblade:proudsoul_ingot"
+    }
+  },
+  "pattern": [
+    " Z ",
+    " B ",
+    " Z "
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

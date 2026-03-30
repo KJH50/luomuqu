@@ -1,0 +1,10 @@
+{
+  "blade": "slashblade:yamato_broken",
+  "drop_fixed": true,
+  "drop_point": [
+    10.0,
+    80.0,
+    10.0
+  ],
+  "entity_type": "minecraft:ender_dragon"
+}

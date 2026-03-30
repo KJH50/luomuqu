@@ -1,0 +1,76 @@
+{
+
+  "entity.migamigos.amigo": "可爱的同伴/Amigo",
+
+  "entity.migamigos.cocogoat": "椰羊/Cocogoat",
+
+  "entity.migamigos.wavelyn": "韦弗林/Wavelyn",
+
+  "entity.migamigos.claymore": "克莱默尔/Claymore",
+
+  "slot.migamigos.coming_soon": "即将到来!",
+
+  "subtitle.migamigos.amigo.backpack_opening": "打开同伴的背包",
+
+  "subtitle.migamigos.amigo.backpack_closing": "关闭同伴的背包",
+
+  "info.migamigos.favorite_item": "中意的物品: ",
+
+  "info.migamigos.max_health": "最大生命值: ",
+
+  "info.migamigos.armor": "护甲: ",
+
+  "info.migamigos.additional_power": "额外加成: ",
+
+  "info.migamigos.tolerance": "误伤阈值: ",
+
+  "info.migamigos.speed": "速度: ",
+
+  "gui.migamigos.amigo_inventory.level": "每一级经验都会提升同伴的属性",
+
+  "gui.migamigos.amigo_inventory.attacking_any_entity.true": "自动索敌",
+
+  "gui.migamigos.amigo_inventory.attacking_any_entity.false": "仅攻击目标",
+
+  "gui.migamigos.amigo_inventory.defend_player_only.true": "仅保护玩家",
+
+  "gui.migamigos.amigo_inventory.defend_player_only.false": "保护友方",
+
+  "gui.migamigos.amigo_inventory.focus_on_main_target.true": "专注于目标",
+
+  "gui.migamigos.amigo_inventory.focus_on_main_target.false": "协助团队",
+
+  "gui.migamigos.amigo_inventory.allow_wandering.true": "可以散步",
+
+  "gui.migamigos.amigo_inventory.allow_wandering.false": "禁止散步",
+
+  "gui.migamigos.amigo_inventory.following.true": "是否跟随",
+
+  "gui.migamigos.amigo_inventory.following.false": "是否待命",
+
+  "cutesy.migamigos.thanks": "感谢您使用 Migamigos!",
+
+  "chat.migamigos.favorite_item": "他们喜欢 %1$s!",
+
+  "broadcast.migamigos.amigo_visitor": "一位可爱的同伴前来访问您的家园!",
+
+  "warning.migamigos.wip": "这是Migamigos的早期版本!",
+
+  "warning.migamigos.wip_2": "报告您发现的任何错误，并随时关注未来的更新!",
+
+  "amigo.death.by_player": "%1$s 被 %2$s 击倒了!",
+
+  "amigo.death.by_entity": "%1$s 被一个 %2$s 击倒了!",
+
+  "amigo.death.generic": "%1$s 倒下了!",
+
+  "itemGroup.migamigos": "Migamigos",
+
+  "item.migamigos.cocogoat_spawn_flower": "椰羊/Cocogoat的冰莲",
+
+  "item.migamigos.wavelyn_spawn_cookie": "韦弗林/Wavelyn的樱花曲奇",
+
+  "item.migamigos.claymore_spawn_tortilla": "克莱默尔/Claymore的玉米饼"
+
+}
+

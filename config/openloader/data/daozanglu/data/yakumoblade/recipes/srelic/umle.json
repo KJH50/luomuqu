@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:netherite_sword"
+    },
+    "B": {
+      "item": "minecraft:blaze_rod"
+    },
+    "C": {
+      "item": "minecraft:magma_cream"
+    },
+    "D": {
+      "item": "minecraft:gold_ingot"
+    },
+    "E": {
+      "item": "minecraft:netherite_upgrade_smithing_template"
+    },
+    "F": {
+      "item": "minecraft:gold_block"
+    },
+    "G": {
+      "item": "minecraft:respawn_anchor"
+    },
+    "H": {
+      "item": "minecraft:nether_star"
+    },
+    "I": {
+      "item": "minecraft:warped_fungus"
+    }
+  },
+  "result": {
+    "item": "yakumoblade:umle",
+    "count": 2
+  }
+}

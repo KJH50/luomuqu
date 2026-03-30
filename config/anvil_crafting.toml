@@ -1,0 +1,8 @@
+
+["附魔书合并配方设置 Enchanted Book Merging recipe settings"]
+	#禁用附魔书合并 Disable enchanted book merging
+	disableEnchantedBookMerging = false
+	#铁砧损坏程度 Anvil damage degree
+	#0-不损坏，1-损坏到下一级，2-完全损坏 0-No damage, 1-Damaged to the next level, 2-Completely damaged
+	anvilDamage = 2
+

@@ -1,0 +1,14 @@
+{
+  "name": "slashblade_addon:snow_crow",
+  "properties": {
+    "attack_base": 9.0,
+    "max_damage": 60,
+    "sword_type": [
+      "none"
+    ]
+  },
+  "render": {
+    "model": "slashblade_addon:model/darkraven/snow_crow.obj",
+    "texture": "slashblade_addon:model/darkraven/snow_crow.png"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:thorns"
+    },
+    {
+      "id": "minecraft:smite",
+      "lvl": 5
+    }
+  ],
+  "name": "slashblade_addon:moonlight_cherry",
+  "properties": {
+    "attack_base": 7.0,
+    "max_damage": 60,
+    "slash_art": "slashblade_addon:gale_swords",
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "model": "slashblade_addon:model/blademaster/blademaster.obj",
+    "texture": "slashblade_addon:model/blademaster/moonlightcherry.png"
+  }
+}

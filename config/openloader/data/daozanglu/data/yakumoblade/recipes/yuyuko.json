@@ -1,0 +1,37 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "yakumoblade:yuyuko",
+  "category": "equipment",
+  "key": {
+    "D": {
+      "item": "farmersdelight:hamburger"
+    },
+    "E": {
+      "item": "slashblade:proudsoul_sphere"
+    },
+    "G": {
+      "item": "celestial_core:sakura_steel"
+    },
+    "I": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 600,
+        "name": "yakumoblade:san",
+        "proud_soul": 3000
+      }
+    },
+    "S": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+  "pattern": [
+    "SEG",
+    "GDE",
+    "IGS"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

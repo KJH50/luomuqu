@@ -1,0 +1,47 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "resonantisshelomoh:reversed",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "soulsweapons:moonstone"
+    },
+    "B": {
+      "item": "iceandfire:cyclops_eye"
+    },
+    "C": {
+      "item": "soulsweapons:moonstone"
+    },
+    "D": {
+      "item": "cataclysm:witherite_ingot"
+    },
+    "E": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 1000,
+        "name": "resonantisshelomoh:reflection",
+        "proud_soul": 5000,
+        "refine": 20
+      }
+    },
+    "F": {
+      "item": "cataclysm:witherite_ingot"
+    },
+    "G": {
+      "item": "minecraft:obsidian"
+    },
+    "H": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHG"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

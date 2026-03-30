@@ -1,0 +1,42 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "slashblade_addon:nihilbx",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 1500,
+        "name": "slashblade_addon:crimsoncherry",
+        "proud_soul": 6500,
+        "refine": 3
+      }
+    },
+    "D": {
+      "item": "celestial_artifacts:the_end_dust"
+    },
+    "S": {
+      "item": "slashblade:slashblade"
+    },
+    "U": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 1500,
+        "name": "slashblade_addon:nihilul",
+        "proud_soul": 6500,
+        "refine": 3
+      }
+    }
+  },
+  "pattern": [
+    "DDD",
+    "CSU",
+    "DDD"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

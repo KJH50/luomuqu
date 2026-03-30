@@ -1,0 +1,33 @@
+{
+	"type": "cagedmobs:entity_data",
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "goety"
+		}
+	],
+	"entity": "goety:warlock",
+	"samplerTier": 2,
+	"environments": ["goety"],
+	"growTicks": 1800,
+	"results": [
+		
+		{
+			"chance": 0.1,
+			"output": {
+				"item": "goety:warlock_sash"
+			},
+			"minAmount": 1,
+			"maxAmount": 1
+		},
+		{
+			"chance": 0.15,
+			"output": {
+				"item": "goety:wartful_egg"
+			},
+			"minAmount": 2,
+			"maxAmount": 6
+		}
+	]
+	
+}

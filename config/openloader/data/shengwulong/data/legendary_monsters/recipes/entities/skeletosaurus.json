@@ -1,0 +1,96 @@
+{
+	"type": "cagedmobs:entity_data",
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "legendary_monsters"
+		}
+	],
+	"entity": "legendary_monsters:skeletosaurus",
+	"samplerTier": 2,
+	"environments": ["cave"],
+	"growTicks": 800,
+	"results": [
+        {
+            "chance": 0.8,
+            "output": {
+                "item": "minecraft:stone"
+            },
+            "minAmount": 3,
+            "maxAmount": 6
+        },
+        {
+            "chance": 0.8,
+            "output": {
+                "item": "minecraft:quartz_block"
+            },
+            "minAmount": 3,
+            "maxAmount": 6
+        },
+        {
+            "chance": 0.8,
+            "output": {
+                "item": "minecraft:quartz"
+            },
+            "minAmount": 6,
+            "maxAmount": 12
+        },
+        {
+            "chance": 0.8,
+            "output": {
+                "item": "minecraft:mossy_cobblestone"
+            },
+            "minAmount": 3,
+            "maxAmount": 6
+        },
+        {
+            "chance": 0.8,
+            "output": {
+                "item": "minecraft:mossy_stone_bricks"
+            },
+            "minAmount": 3,
+            "maxAmount": 6
+        },
+        {
+            "chance": 0.8,
+            "output": {
+                "item": "minecraft:blackstone"
+            },
+            "minAmount": 3,
+            "maxAmount": 6
+        },
+        {
+            "chance": 0.8,
+            "output": {
+                "item": "minecraft:cobbled_deepslate"
+            },
+            "minAmount": 3,
+            "maxAmount": 6
+        },
+        {
+            "chance": 0.8,
+            "output": {
+                "item": "minecraft:diorite"
+            },
+            "minAmount": 3,
+            "maxAmount": 6
+        },
+        {
+            "chance": 0.8,
+            "output": {
+                "item": "minecraft:granite"
+            },
+            "minAmount": 3,
+            "maxAmount": 6
+        },
+        {
+            "chance": 0.8,
+            "output": {
+                "item": "minecraft:andesite"
+            },
+            "minAmount": 3,
+            "maxAmount": 6
+        }
+	]
+	
+}

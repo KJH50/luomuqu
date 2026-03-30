@@ -1,0 +1,13 @@
+{
+	"type": "cagedmobs:environment_data",
+	"forge:condition": {
+			"type": "forge:mod_loaded",
+			"modid": "irons_spellbooks"
+	},
+	"input": {
+		"item": "minecraft:amethyst_block"
+	},
+	"render": "minecraft:amethyst_block",
+	"growModifier": 1,
+	"categories": ["irons_spellbooks"]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "yakumoblade:ru_sang",
+  "category": "equipment",
+  "key": {
+    "P": {
+      "item": "celestial_core:fire_essence"
+    },
+    "V": {
+      "tag": "forge:rods/blaze"
+    },
+    "Z": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 100,
+        "name": "slashblade:yuzukitukumo",
+        "refine": 20
+      }
+    }
+  },
+  "pattern": [
+    "VVP",
+    "VZV",
+    "VVV"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

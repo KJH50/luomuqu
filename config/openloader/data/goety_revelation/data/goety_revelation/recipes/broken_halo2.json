@@ -1,0 +1,32 @@
+{
+  "type": "goety:ritual",
+  "ritual_type": "goety:craft",
+  "activation_item": {
+    "item": "goety:unholy_hat"
+  },
+  "craftType": "expert_nether",
+  "research": "forbidden",
+  "entity_to_sacrifice": {
+    "tag": "minecraft:raiders",
+    "display_name": "entity.minecraft.witch"
+  },
+  "soulCost": 666,
+  "duration": 6,
+  "ingredients": [
+    {
+      "item": "goety:unholy_blood"
+    },
+    {
+      "item": "cagedmobs:star_infused_netherite_ingot"
+    },
+    {
+      "item": "cataclysm:ignitium_ingot"
+    },
+    {
+      "item": "cataclysm:cursium_ingot"
+    }
+  ],
+  "result": {
+    "item": "goety_revelation:broken_halo"
+  }
+}

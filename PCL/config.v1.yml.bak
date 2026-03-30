@@ -1,0 +1,18 @@
+﻿State: 6
+Logo: pack://application:,,,/Plain Craft Launcher 2;component/Images/Blocks/Anvil.png
+ReleaseTime: 2023-06-12 21:25
+VersionFabric: ''
+VersionLegacyFabric: ''
+VersionQuilt: ''
+VersionLabyMod: ''
+VersionOptiFine: ''
+VersionLiteLoader: false
+VersionForge: 47.4.18
+VersionNeoForge: ''
+VersionCleanroom: ''
+VersionVanillaName: 1.20.1
+VersionVanilla: 20.0.1
+VersionArgumentIndieV2: true
+VersionLaunchCount: 35
+VersionArgumentJavaSelect: '{"kind":"exist","JavaExePath":"C:\\Program Files\\Graalvm\\graalvm-jdk-21.0.10\u002B8.1\\bin\\java.exe"}'
+Info: ''

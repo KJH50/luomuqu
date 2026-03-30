@@ -1,0 +1,40 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "yakumoblade:yuyukofinal",
+  "category": "equipment",
+  "key": {
+    "D": {
+      "item": "irons_spellbooks:blood_staff"
+    },
+    "E": {
+      "item": "minecraft:pink_petals"
+    },
+    "F": {
+      "item": "minecraft:cherry_sapling"
+    },
+    "G": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "I": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 2200,
+        "name": "yakumoblade:yuyuko3",
+        "proud_soul": 10000
+      }
+    },
+    "S": {
+      "item": "minecraft:end_crystal"
+    }
+  },
+  "pattern": [
+    "SEF",
+    "GDE",
+    "IGS"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

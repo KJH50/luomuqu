@@ -1,0 +1,37 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:power",
+      "lvl": 12
+    },
+    {
+      "id": "minecraft:unbreaking",
+      "lvl": 10
+    },
+    {
+      "id": "minecraft:mending"
+    },
+    {
+      "id": "minecraft:sharpness",
+      "lvl": 10
+    }
+  ],
+  "name": "yakumoblade:hexagram",
+  "properties": {
+    "attack_base": 45.0,
+    "max_damage": 180,
+    "slash_art": "yakumoblade:ten_drive",
+    "special_effects": [
+      "yakumoblade:star_soul",
+      "yakumoblade:very_green"
+    ],
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "model": "yakumoblade:model/named/custom/hexagram/hexagram.obj",
+    "summon_sword_color": 8126719,
+    "texture": "yakumoblade:model/named/custom/hexagram/hexagram.png"
+  }
+}

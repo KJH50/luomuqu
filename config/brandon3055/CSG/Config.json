@@ -1,0 +1,14 @@
+{
+  "inventory": {
+    "0:11": "{Count:1b,id:\"minecraft:saddle\"}",
+    "0:12": "{Count:1b,id:\"farmersdelight:bone_broth\"}",
+    "0:0": "{Count:1b,id:\"iceandfire:silver_sword\",tag:{Damage:0}}",
+    "0:7": "{Count:1b,id:\"touhou_little_maid:smart_slab_init\"}",
+    "0:8": "{Count:1b,id:\"prefab:item_house\"}",
+    "0:10": "{Count:1b,id:\"toms_storage:ts.storage_terminal\"}",
+    "0:1": "{Count:1b,id:\"cataclysm:black_steel_targe\",tag:{Damage:0,RepairCost:0,Unbreakable:1b}}",
+    "0:9": "{Count:1b,id:\"toms_storage:ts.inventory_connector\"}",
+    "0:6": "{Count:1b,id:\"ftbquests:book\"}"
+  },
+  "wipeBlacklist": []
+}

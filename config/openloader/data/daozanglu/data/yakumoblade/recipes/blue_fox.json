@@ -1,0 +1,30 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "yakumoblade:blue_fox",
+  "category": "equipment",
+  "key": {
+    "B": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 2000,
+        "name": "slashblade_addon:yukari"
+      }
+    },
+    "I": {
+      "item": "alexscaves:heavy_bone"
+    },
+    "S": {
+      "item": "alexscaves:tectonic_shard"
+    }
+  },
+  "pattern": [
+    "ISI",
+    "SBS",
+    "ISI"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

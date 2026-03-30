@@ -1,0 +1,32 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "cialloblade:ciallo",
+  "category": "equipment",
+  "key": {
+    "B": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "name": "slashblade:muramasa"
+      }
+    },
+    "D": {
+      "item": "soulsweapons:crimson_ingot"
+    },
+    "S": {
+      "item": "eeeabsmobs:heart_of_pagan"
+    },
+    "Z": {
+      "item": "celestial_core:virtual_gold_sword"
+    }
+  },
+  "pattern": [
+    "DSD",
+    "ZBZ",
+    "DZD"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

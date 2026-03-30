@@ -1,0 +1,50 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "botania"
+        }
+      ],
+      "recipe": {
+        "type": "slashblade:shaped_blade",
+        "blade": "slashblade_addon:terra_blade",
+        "category": "equipment",
+        "key": {
+          "B": {
+            "item": "slashblade:slashblade"
+          },
+          "C": {
+            "item": "botania:thorn_chakram"
+          },
+          "G": {
+            "item": "slashblade:proudsoul"
+          },
+          "O": {
+            "item": "botania:gaia_ingot"
+          },
+          "Q": {
+            "item": "botania:terra_sword"
+          },
+          "X": {
+            "item": "slashblade:proudsoul_sphere"
+          },
+          "Z": {
+            "item": "botania:vine_ball"
+          }
+        },
+        "pattern": [
+          "ZCO",
+          " BG",
+          "Q X"
+        ],
+        "result": {
+          "item": "slashblade:slashblade"
+        },
+        "show_notification": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "resonantisshelomoh:reflection",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "minecraft:gold_ingot"
+    },
+    "B": {
+      "item": "mowziesmobs:wrought_helmet"
+    },
+    "C": {
+      "item": "celestial_core:virtual_gold_nugget"
+    },
+    "D": {
+      "item": "slashblade:proudsoul_sphere"
+    },
+    "E": {
+      "item": "celestial_core:virtual_gold_nugget"
+    },
+    "F": {
+      "item": "meetyourfight:mossy_tooth"
+    },
+    "G": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 400,
+        "name": "resonantisshelomoh:temperance",
+        "proud_soul": 2000,
+        "refine": 5
+      }
+    },
+    "H": {
+      "item": "slashblade:proudsoul_sphere"
+    },
+    "I": {
+      "item": "touhou_little_maid_spell:bleeding_heart"
+    }
+  },
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

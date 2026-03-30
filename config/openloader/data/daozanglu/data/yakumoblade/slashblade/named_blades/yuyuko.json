@@ -1,0 +1,16 @@
+{
+  "name": "yakumoblade:yuyuko",
+  "properties": {
+    "attack_base": 21.0,
+    "max_damage": 180,
+    "slash_art": "slashblade:void_slash",
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "model": "yakumoblade:model/named/sange/sange.obj",
+    "summon_sword_color": 16722600,
+    "texture": "yakumoblade:model/named/sange/yuyuko.png"
+  }
+}

@@ -1,0 +1,79 @@
+{
+
+  "modmenu.descriptionTranslation.alcocraftplus": "使用此模组您将能够酿酒并用它们招待您的朋友们！",
+
+
+
+  "alcocraftplus.discord": "Discord",
+
+
+
+  "itemGroup.alcocraftplus.tab": "AlcoCraft+",
+
+
+
+  "item.alcocraftplus.hop": "啤酒花",
+
+  "item.alcocraftplus.hop_seeds": "啤酒花种子",
+
+  "item.alcocraftplus.dry_seeds": "烘焙小麦种子",
+
+
+
+  "block.alcocraftplus.keg": "酿酒桶",
+
+  "block.alcocraftplus.mug": "空酒杯",
+
+  "block.alcocraftplus.chorus_ale": "紫颂艾尔",
+
+  "block.alcocraftplus.digger_bitter": "矿工苦歌",
+
+  "block.alcocraftplus.drowned_ale": "溺尸艾尔",
+
+  "block.alcocraftplus.ice_beer": "冰啤",
+
+  "block.alcocraftplus.kvass": "格瓦斯",
+
+  "block.alcocraftplus.leprechaun_cider": "矮妖四叶草西打",
+
+  "block.alcocraftplus.magnet_pilsner": "磁石皮尔森",
+
+  "block.alcocraftplus.nether_porter": "下界泊特",
+
+  "block.alcocraftplus.nether_star_lager": "下界之星拉格",
+
+  "block.alcocraftplus.night_rauch": "午夜烟熏",
+
+  "block.alcocraftplus.sun_pale_ale": "阳式淡色艾尔",
+
+  "block.alcocraftplus.wither_stout": "凋灵世涛",
+
+
+
+  "effect.alcocraftplus.attract": "吸引",
+
+  "effect.alcocraftplus.freeze": "霜冻",
+
+  "effect.alcocraftplus.phantom": "精力充沛",
+
+  "effect.alcocraftplus.wither": "凋零之触",
+
+
+
+  "advancements.husbandry.hop.title": "酒鬼的雀跃",
+
+  "advancements.husbandry.hop.description": "通过在方块的底部种植啤酒花种子来获得啤酒花.",
+
+  "advancements.husbandry.keg.title": "一切始于一个桶",
+
+  "advancements.husbandry.keg.description": "制作一个酿酒桶，开启你的酿造之旅.",
+
+  "advancements.husbandry.mug.title": "喝还是不喝",
+
+  "advancements.husbandry.mug.description": "酿造出你的第一杯啤酒",
+
+  "advancements.husbandry.all_beer.title": "必须喝个够",
+
+  "advancements.husbandry.all_beer.description": "酿造并饮用所有啤酒."
+
+}

@@ -1,0 +1,12 @@
+{
+  "item.time_slow.time_slow": "time_slow",
+  "item.time_slow.god_defence": "god defence",
+  "item.time_slow.cause_defence": "cause defence",
+  "item.time_slow.king_defence": "king defence",
+  "item.time_slow.heal_defence": "heal defence",
+  "item.time_slow.knight_defence": "knight defence",
+  "item.time_slow.power_defence": "power defence",
+  "item_group.time_slow.time_slow": "time_slow",
+  "key.time_slow.time_slow": "time_slow",
+  "curios.identifier.time_slow": "Chest"
+}

@@ -1,0 +1,47 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:power",
+      "lvl": 20
+    },
+    {
+      "id": "tonsofenchants:feasting",
+      "lvl": 1
+    },
+    {
+      "id": "minecraft:fire_aspect",
+      "lvl": 6
+    },
+    {
+      "id": "minecraft:sharpness",
+      "lvl": 6
+    },
+    {
+      "id": "minecraft:bane_of_arthropods",
+      "lvl": 6
+    },
+    {
+      "id": "tonsofenchants:xp_sword_master",
+      "lvl": 6
+    }
+  ],
+  "name": "yakumoblade:hundred_curses",
+  "properties": {
+    "attack_base": 60.0,
+    "max_damage": 220,
+    "slash_art": "slashblade:wave_edge",
+    "special_effects": [
+      "resonantisshelomoh:compassionfortorture",
+      "slashblade:wither_edge"
+    ],
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "carry_type": "default",
+    "model": "yakumoblade:model/relicofpaseone/hundred_curses.obj",
+    "summon_sword_color": 8126719,
+    "texture": "yakumoblade:model/relicofpaseone/hundred_curses.png"
+  }
+}

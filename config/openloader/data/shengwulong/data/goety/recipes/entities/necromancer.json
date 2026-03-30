@@ -1,0 +1,41 @@
+{
+	"type": "cagedmobs:entity_data",
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "goety"
+		}
+	],
+	"entity": "goety:necromancer",
+	"samplerTier": 2,
+	"environments": ["goety"],
+	"growTicks": 1800,
+	"results": [
+		
+		{
+			"chance": 0.35,
+			"output": {
+				"item": "goety:ectoplasm"
+			},
+			"minAmount": 1,
+			"maxAmount": 5
+		},
+		{
+			"chance": 0.35,
+			"output": {
+				"item": "minecraft:lapis_lazuli"
+			},
+			"minAmount": 1,
+			"maxAmount": 4
+		},
+		{
+			"chance": 0.25,
+			"output": {
+				"item": "goety:forbidden_piece"
+			},
+			"minAmount": 1,
+			"maxAmount": 2
+		}
+	]
+	
+}

@@ -1,0 +1,6 @@
+{
+  "blade": "slashblade_addon:dark_raven",
+  "drop_rate": 1.0,
+  "entity_type": "meetyourfight:rosalyne",
+  "request_slashblade": true
+}

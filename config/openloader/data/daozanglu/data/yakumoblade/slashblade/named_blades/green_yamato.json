@@ -1,0 +1,15 @@
+{
+  "name": "yakumoblade:green_yamato",
+  "properties": {
+    "attack_base": 10.0,
+    "max_damage": 180,
+    "special_effects": [
+      "yakumoblade:very_green"
+    ]
+  },
+  "render": {
+    "model": "slashblade:model/named/dios/dios.obj",
+    "summon_sword_color": 5406582,
+    "texture": "yakumoblade:model/relicofpaseone/jianshouzhe.png"
+  }
+}

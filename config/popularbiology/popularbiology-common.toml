@@ -1,0 +1,10 @@
+#宠物的最大生命值
+#Range: 1 ~ 1000
+petMaxHealth = 20
+#宠物的攻击力
+#Range: 1 ~ 100
+petAttackDamage = 3
+#宠物的移动速度
+#Range: 0.0 ~ 10.0
+petMovementSpeed = 0.3
+

@@ -1,0 +1,39 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:smite",
+      "lvl": 25
+    },
+    {
+      "id": "minecraft:sharpness",
+      "lvl": 10
+    },
+    {
+      "id": "minecraft:fire_aspect",
+      "lvl": 3
+    },
+    {
+      "id": "minecraft:unbreaking",
+      "lvl": 10
+    }
+  ],
+  "item": "slashblade:slashblade",
+  "name": "murasame:murasamemaru_awakened",
+  "properties": {
+    "attack_base": 60.0,
+    "max_damage": 300.0,
+    "slash_art": "slashblade:wave_edge",
+    "special_effects": [
+      "murasame:murasame_blessing"
+    ],
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "carry_type": "default",
+    "model": "murasame:models/murasame/murasamemaru_awakened.obj",
+    "texture": "murasame:models/murasame/murasamemaru_awakened.png",
+    "summon_sword_color": 65350
+  }
+}

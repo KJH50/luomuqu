@@ -1,0 +1,45 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "yakumoblade:san",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "minecraft:allium"
+    },
+    "B": {
+      "item": "bosses_of_mass_destruction:crystal_fruit"
+    },
+    "C": {
+      "item": "minecraft:blue_orchid"
+    },
+    "D": {
+      "item": "slashblade:proudsoul_trapezohedron"
+    },
+    "E": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "name": "slashblade:sange",
+        "proud_soul": 1700
+      }
+    },
+    "F": {
+      "item": "alcocraftplus:hop"
+    },
+    "G": {
+      "item": "farmersdelight:melon_popsicle"
+    },
+    "L": {
+      "item": "celestial_core:fire_essence"
+    }
+  },
+  "pattern": [
+    "ABC",
+    "DED",
+    "FLG"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

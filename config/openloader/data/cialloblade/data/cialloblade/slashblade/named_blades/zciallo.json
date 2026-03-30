@@ -1,0 +1,39 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:smite",
+      "lvl": 25
+    },
+    {
+      "id": "minecraft:sharpness",
+      "lvl": 10
+    },
+    {
+      "id": "minecraft:fire_aspect",
+      "lvl": 3
+    },
+    {
+      "id": "minecraft:unbreaking",
+      "lvl": 10
+    }
+  ],
+  "item": "slashblade:slashblade",
+  "name": "cialloblade:zciallo",
+  "properties": {
+    "attack_base": 63.0,
+    "max_damage": 320,
+    "slash_art": "murasame:spatial_slash",
+    "special_effects": [
+      "cialloblade:ciallo"
+    ],
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "carry_type": "default",
+    "model": "slashblade_addon:model/wa/wa.obj",
+    "summon_sword_color": 4980480,
+    "texture": "murasame:models/murasame/zciallo.png"
+  }
+}

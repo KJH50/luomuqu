@@ -1,0 +1,36 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "yakumoblade:star_muasum",
+  "category": "equipment",
+  "key": {
+    "D": {
+      "item": "iceandfire:ice_dragon_blood"
+    },
+    "E": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "name": "slashblade_addon:frost_wolf"
+      }
+    },
+    "U": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 600,
+        "name": "slashblade_addon:laemmle",
+        "proud_soul": 5000,
+        "refine": 3
+      }
+    }
+  },
+  "pattern": [
+    "DUD",
+    "DED",
+    "DDD"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

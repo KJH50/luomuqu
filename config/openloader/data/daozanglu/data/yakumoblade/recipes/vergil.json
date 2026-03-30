@@ -1,0 +1,35 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "yakumoblade:vergil",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "cataclysm:ignitium_ingot"
+    },
+    "B": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 3000,
+        "name": "slashblade:yamato",
+        "proud_soul": 1000,
+        "refine": 100
+      }
+    },
+    "E": {
+      "item": "minecraft:dragon_egg"
+    },
+    "S": {
+      "item": "fumo:flandre_item"
+    }
+  },
+  "pattern": [
+    "ASA",
+    "ABA",
+    "AEA"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

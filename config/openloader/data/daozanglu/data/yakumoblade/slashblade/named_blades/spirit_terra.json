@@ -1,0 +1,26 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:power",
+      "lvl": 12
+    }
+  ],
+  "name": "yakumoblade:spirit_terra",
+  "properties": {
+    "attack_base": 25.0,
+    "max_damage": 130,
+    "slash_art": "slashblade:wave_edge",
+    "special_effects": [
+      "yakumoblade:star_soul",
+      "resonantisshelomoh:anuntraceablehope"
+    ],
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "model": "yakumoblade:model/relicofpaseone/terra.obj",
+    "summon_sword_color": 8126719,
+    "texture": "yakumoblade:model/relicofpaseone/spirit_terra.png"
+  }
+}

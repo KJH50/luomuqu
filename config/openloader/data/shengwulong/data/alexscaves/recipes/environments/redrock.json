@@ -1,0 +1,13 @@
+{
+	"type": "cagedmobs:environment_data",
+	"forge:condition": {
+			"type": "forge:mod_loaded",
+			"modid": "alexscaves"
+	},
+	"input": {
+		"item": "alexscaves:radrock"
+	},
+	"render": "alexscaves:radrock",
+	"growModifier": 1,
+	"categories": ["alexscaves:toxic_caves"]
+}

@@ -1,0 +1,28 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:unbreaking",
+      "lvl": 3
+    },
+    {
+      "id": "minecraft:smite",
+      "lvl": 3
+    },
+    {
+      "id": "minecraft:feather_falling"
+    }
+  ],
+  "name": "slashblade_addon:kamuy_lightning",
+  "properties": {
+    "attack_base": 7.0,
+    "max_damage": 50,
+    "slash_art": "slashblade_addon:lighting_swords",
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "model": "slashblade_addon:model/kamuy/kamuy.obj",
+    "texture": "slashblade_addon:model/kamuy/lightning.png"
+  }
+}

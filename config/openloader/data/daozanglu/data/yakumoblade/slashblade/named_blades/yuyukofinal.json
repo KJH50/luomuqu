@@ -1,0 +1,41 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:soul_speed",
+      "lvl": 4
+    },
+    {
+      "id": "minecraft:power",
+      "lvl": 10
+    },
+    {
+      "id": "minecraft:feather_falling",
+      "lvl": 8
+    },
+    {
+      "id": "minecraft:smite",
+      "lvl": 10
+    },
+    {
+      "id": "minecraft:unbreaking",
+      "lvl": 3
+    }
+  ],
+  "name": "yakumoblade:yuyukofinal",
+  "properties": {
+    "attack_base": 46.0,
+    "max_damage": 180,
+    "slash_art": "yakumoblade:soul_galegwords",
+    "special_effects": [
+      "yakumoblade:yuyuko"
+    ],
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "model": "yakumoblade:model/named/sange/yakumosakurafinal.obj",
+    "summon_sword_color": 16722600,
+    "texture": "yakumoblade:model/named/sange/yuyukofinal.png"
+  }
+}

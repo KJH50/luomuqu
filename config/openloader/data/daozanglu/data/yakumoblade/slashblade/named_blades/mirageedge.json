@@ -1,0 +1,26 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:power",
+      "lvl": 10
+    }
+  ],
+  "name": "yakumoblade:mirageedge",
+  "properties": {
+    "attack_base": 10.0,
+    "max_damage": 120,
+    "slash_art": "yakumoblade:thoo",
+    "special_effects": [
+      "slashblade_addon:burst_drive",
+      "legendblade:eternal"
+    ],
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "model": "yakumoblade:model/named/custom/vergil/mirageedge.obj",
+    "summon_sword_color": 2003199,
+    "texture": "yakumoblade:model/named/custom/vergil/mirageedge.png"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "yakumoblade:ru_sang",
+  "properties": {
+    "attack_base": 13.0,
+    "max_damage": 180
+  },
+  "render": {
+    "model": "yakumoblade:model/relicofpaseone/ru_sang.obj",
+    "summon_sword_color": 12013391,
+    "texture": "yakumoblade:model/relicofpaseone/ru_sang.png"
+  }
+}

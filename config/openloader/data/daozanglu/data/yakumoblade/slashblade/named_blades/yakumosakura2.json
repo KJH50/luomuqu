@@ -1,0 +1,38 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:soul_speed",
+      "lvl": 2
+    },
+    {
+      "id": "minecraft:power",
+      "lvl": 5
+    },
+    {
+      "id": "minecraft:feather_falling",
+      "lvl": 4
+    },
+    {
+      "id": "minecraft:smite",
+      "lvl": 5
+    },
+    {
+      "id": "minecraft:unbreaking",
+      "lvl": 3
+    }
+  ],
+  "name": "yakumoblade:yakumosakura2",
+  "properties": {
+    "attack_base": 25.0,
+    "max_damage": 180,
+    "slash_art": "slashblade:sakura_end",
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "model": "yakumoblade:model/named/sange/sange.obj",
+    "summon_sword_color": 16722600,
+    "texture": "yakumoblade:model/named/sange/yakumosakura1.png"
+  }
+}

@@ -1,0 +1,21 @@
+#是否展示欢迎信息
+showWelcomeMessage = true
+#百度千帆的 appid
+appId = "your_appid"
+#百度千帆apikey
+apiKey = "your_apikey"
+#请求的URL
+chat-apiUrl = "null"
+#使用的模型
+model = "deepseek-r1"
+#是否开启上下文，如果开启可能会导致token使用较多
+enableContext = true
+#与AI交互的基础信息:你是Minecraft中的一只宠物...模组已经帮你拼接了每一个宠物的名字，剩下的信息可以自己写
+systemInfo = "你是Minecraft中的一只宠物,负责对话聊天，你的回复不要超过30个字"
+#是否开启web搜索
+enableWebSearch = false
+#TTS API URL
+ttsApiUrl = "null"
+#TTS API KEY
+ttsApiKey = "null"
+

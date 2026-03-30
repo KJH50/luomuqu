@@ -1,0 +1,16 @@
+{
+  "item.darkdoppelganger.summon_scroll": "§d召唤卷轴",
+  "item.darkdoppelganger.doppelganger_ring": "§d镜像之戒",
+  "itemGroup.darkdoppelganger.example_tab": "“§d自己”的化身",
+  "item.darkdoppelganger.summon_scroll.tooltip": "§d使用这个物品来召唤自己的化身!",
+  "advancement.kill_dark_doppelganger.title": "§d“自己”的化身",
+  "advancement.kill_dark_doppelganger.description": "§d你已经战胜了“自己”!",
+
+  "advancement.summon_dark_doppelganger.title": "§d“自己”的化身正在觉醒.....",
+  "advancement.summon_dark_doppelganger.description": "§d“召唤自己”的化身",
+
+  "spell.irons_spellbooks.doppel_portal": "跳转",
+  "spell.darkdoppelganger.doppel_portal": "跳转",
+
+  "spell.irons_spellbooks.doppel_portal.guide": "阿巴阿巴....."
+}

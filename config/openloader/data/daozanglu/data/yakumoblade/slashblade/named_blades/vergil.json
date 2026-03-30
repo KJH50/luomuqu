@@ -1,0 +1,36 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:power",
+      "lvl": 10
+    },
+    {
+      "id": "minecraft:soul_speed",
+      "lvl": 10
+    },
+    {
+      "id": "minecraft:feather_falling",
+      "lvl": 10
+    },
+    {
+      "id": "minecraft:unbreaking",
+      "lvl": 10
+    }
+  ],
+  "name": "yakumoblade:vergil",
+  "properties": {
+    "attack_base": 69.0,
+    "max_damage": 120,
+    "special_effects": [
+      "legendblade:eternal"
+    ],
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "model": "yakumoblade:model/named/custom/vergil/model.obj",
+    "summon_sword_color": 2003199,
+    "texture": "yakumoblade:model/named/custom/vergil/texture.png"
+  }
+}

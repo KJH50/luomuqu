@@ -1,0 +1,28 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "tofucraft"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:smithing_transform",
+        "addition": {
+          "item": "tofucraft:blocktofudiamond"
+        },
+        "base": {
+          "item": "slashblade_addon:slashblade_tofu_metal"
+        },
+        "result": {
+          "item": "slashblade_addon:slashblade_tofu_diamond"
+        },
+        "template": {
+          "item": "tofucraft:tofu_upgrade_smithing_template"
+        }
+      }
+    }
+  ]
+}

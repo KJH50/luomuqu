@@ -1,0 +1,95 @@
+{
+
+  "entity.wan_ancient_beasts.eater": "暴食兽",
+
+  "entity.wan_ancient_beasts.walker": "长颈兽",
+
+  "entity.wan_ancient_beasts.crusher": "破碎兽",
+
+  "entity.wan_ancient_beasts.glider": "滑翔者",
+
+  "entity.wan_ancient_beasts.soarer": "翱翔者",
+
+  "entity.wan_ancient_beasts.toxlacanth": "毒棘鱼",
+
+  "item.wan_ancient_beasts.eater_spawn_egg": "暴食兽生成蛋",
+
+  "item.wan_ancient_beasts.walker_spawn_egg": "长颈兽生成蛋",
+
+  "item.wan_ancient_beasts.crusher_spawn_egg": "破碎兽生成蛋",
+
+  "item.wan_ancient_beasts.glider_spawn_egg": "滑翔者生成蛋",
+
+  "item.wan_ancient_beasts.soarer_spawn_egg": "翱翔者生成蛋",
+
+  "item.wan_ancient_beasts.toxlacanth_spawn_egg": "毒棘鱼生成蛋",
+
+  "item.wan_ancient_beasts.eater_tooth": "暴食兽牙齿",
+
+  "item.wan_ancient_beasts.ancient_club": "远古大棒",
+
+  "item.wan_ancient_beasts.reinforced_shield": "加固盾牌",
+
+  "item.wan_ancient_beasts.ancient_upgrade_smithing_template": "远古升级锻造模板",
+
+  "item.wan_ancient_beasts.crusher_spike": "破碎兽尖刺",
+
+  "item.wan_ancient_beasts.glider_feather": "滑翔者羽毛",
+
+  "item.wan_ancient_beasts.hang_glider": "悬挂式滑翔器",
+
+  "item.wan_ancient_beasts.frozen_ancient_meat": "冰冻远古兽肉",
+
+  "item.wan_ancient_beasts.raw_ancient_meat": "生远古兽肉",
+
+  "item.wan_ancient_beasts.cooked_ancient_meat": "熟远古兽肉",
+
+  "item.wan_ancient_beasts.toxlacanth_bucket": "毒棘鱼水桶",
+
+  "item.wan_ancient_beasts.toxlacanth": "毒棘鱼",
+
+  "item.wan_ancient_beasts.cooked_toxlacanth": "熟毒棘鱼",
+
+  "item.wan_ancient_beasts.jaw_pottery_sherd": "颌骨陶片",
+
+  "item.wan_ancient_beasts.spike_pottery_sherd": "尖刺陶片",
+
+  "item.wan_ancient_beasts.stroll_pottery_sherd": "漫步陶片",
+
+  "item.wan_ancient_beasts.beak_pottery_sherd": "喙部陶片",
+
+  "item.wan_ancient_beasts.fall_pottery_sherd": "坠落陶片",
+
+  "item.wan_ancient_beasts.chisel": "凿子",
+
+  "itemGroup.wan_ancient_beasts.items": "万远古异兽相关物品",
+
+  "block.wan_ancient_beasts.eater_egg": "暴食兽蛋",
+
+  "block.wan_ancient_beasts.walker_egg": "长颈兽蛋",
+
+  "block.wan_ancient_beasts.crusher_egg": "破碎兽蛋",
+
+  "block.wan_ancient_beasts.glider_egg": "滑翔者蛋",
+
+  "block.wan_ancient_beasts.soarer_egg": "翱翔者蛋",
+
+  "block.wan_ancient_beasts.nest": "兽巢",
+
+  "block.wan_ancient_beasts.suspicious_red_sand": "可疑红沙",
+
+  "block.wan_ancient_beasts.suspicious_ice": "可疑冰块",
+
+  "block.wan_ancient_beasts.straw_block": "麦秸稻草方块",
+
+  "block.wan_ancient_beasts.straw_slab": "麦秸稻草板砖",
+
+  "block.wan_ancient_beasts.straw_stairs": "麦秸稻草楼梯",
+
+  "block.wan_ancient_beasts.frozen_straw_block": "冰冻麦秸稻草方块",
+
+  "effect.wan_ancient_beasts.alpha": "阿尔法特效",
+
+  "effect.wan_ancient_beasts.fear": "恐惧特效"
+
+  }

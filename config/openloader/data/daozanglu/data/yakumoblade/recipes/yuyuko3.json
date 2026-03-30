@@ -1,0 +1,40 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "yakumoblade:yuyuko3",
+  "category": "equipment",
+  "key": {
+    "D": {
+      "item": "minecraft:nether_star"
+    },
+    "E": {
+      "item": "minecraft:end_crystal"
+    },
+    "F": {
+      "item": "fumo:yuyuko_item"
+    },
+    "G": {
+      "item": "minecraft:respawn_anchor"
+    },
+    "I": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 1500,
+        "name": "yakumoblade:yuyuko2",
+        "proud_soul": 6000
+      }
+    },
+    "S": {
+      "item": "minecraft:echo_shard"
+    }
+  },
+  "pattern": [
+    "SEF",
+    "GDE",
+    "IGS"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,39 @@
+{
+  "enchantments": [
+    {
+      "id": "goety_revelation:reality_piercer",
+      "lvl": 100
+    },
+    {
+      "id": "tonsofenchants:lightning",
+      "lvl": 1
+    },
+    {
+      "id": "minecraft:power",
+      "lvl": 20
+    },
+    {
+      "id": "tonsofenchants:wither",
+      "lvl": 10
+    }
+  ],
+  "name": "yakumoblade:undead_slash",
+  "properties": {
+    "attack_base": 26.0,
+    "max_damage": 180,
+    "slash_art": "resonantisshelomoh:alloverex",
+    "special_effects": [
+      "yakumoblade:eternal",
+      "resonantisshelomoh:compassionfortorture",
+      "yakumoblade:highfrequency"
+    ],
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "model": "slashblade:model/named/yasha/yasha_true.obj",
+    "summon_sword_color": 16776960,
+    "texture": "yakumoblade:model/awolf/undead_slash.png"
+  }
+}

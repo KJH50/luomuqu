@@ -1,0 +1,46 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "yakumoblade:ye_soul",
+  "category": "equipment",
+  "key": {
+    "B": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 800,
+        "name": "yakumoblade:star",
+        "proud_soul": 1000
+      }
+    },
+    "D": {
+      "item": "soulsweapons:essence_of_luminescence"
+    },
+    "S": {
+      "item": "yakumoblade:star_soul_crystal"
+    },
+    "V": {
+      "item": "slashblade:proudsoul_trapezohedron"
+    },
+    "W": {
+      "tag": "forge:gems/lapis"
+    },
+    "X": {
+      "item": "slashblade:proudsoul_ingot"
+    },
+    "Y": {
+      "item": "slashblade:proudsoul_crystal"
+    },
+    "Z": {
+      "item": "slashblade:proudsoul_sphere"
+    }
+  },
+  "pattern": [
+    "WZS",
+    "VBX",
+    "DYW"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

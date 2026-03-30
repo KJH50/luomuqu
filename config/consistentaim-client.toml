@@ -1,0 +1,17 @@
+
+#Consistent Aim: Config
+[support]
+
+	[support.vanilla]
+		#Enable Consistent Aim for vanilla spyglass
+		vanillaSpyglass = true
+		#Enable Consistent Aim for vanilla bow
+		vanillaBow = false
+
+	[support.modded]
+		#Enable Consistent Aim for MrCrayfish's Gun Mod
+		cgm = false
+
+[mechanism]
+	alwaysReturnTo1stPerson = false
+

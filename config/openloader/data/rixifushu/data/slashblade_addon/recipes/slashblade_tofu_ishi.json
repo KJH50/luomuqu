@@ -1,0 +1,38 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "tofucraft"
+        }
+      ],
+      "recipe": {
+        "type": "slashblade:shaped_blade",
+        "blade": "slashblade_addon:slashblade_tofu_ishi",
+        "category": "equipment",
+        "key": {
+          "R": {
+            "tag": "forge:string"
+          },
+          "S": {
+            "item": "tofucraft:tofuishi"
+          },
+          "W": {
+            "tag": "forge:rods/wooden"
+          }
+        },
+        "pattern": [
+          " SS",
+          "SS ",
+          "WR "
+        ],
+        "result": {
+          "item": "slashblade:slashblade"
+        },
+        "show_notification": true
+      }
+    }
+  ]
+}

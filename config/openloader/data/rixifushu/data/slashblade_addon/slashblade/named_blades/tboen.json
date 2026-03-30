@@ -1,0 +1,16 @@
+{
+  "name": "slashblade_addon:tboen",
+  "properties": {
+    "attack_base": 6.0,
+    "max_damage": 70,
+    "slash_art": "slashblade:sakura_end",
+    "sword_type": [
+      "none"
+    ]
+  },
+  "render": {
+    "carry_type": "katana",
+    "model": "slashblade_addon:model/tboen/model.obj",
+    "texture": "slashblade_addon:model/tboen/texture.png"
+  }
+}

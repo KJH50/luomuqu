@@ -1,0 +1,16 @@
+{
+  "item.dragonfinder.coocked_fire_dragon_flesh": "火龙肉",
+  "item.dragonfinder.coocked_ice_dragon_flesh": "冰龙肉",
+  "item.dragonfinder.coocked_lightning_dragon_flesh": "电龙肉",
+
+  "item.dragonfinder.fire_dragon_eye": "§c火龙之眼",
+  "item.dragonfinder.ice_dragon_eye": "§9冰龙之眼",
+  "item.dragonfinder.lightning_dragon_eye": "§d雷霆龙眼",
+
+  "item.dragonfinder.dragoneye.nonfound": "附近没有龙",
+
+  "itemGroup.dragonfinder": "Draogn Finder Items",
+
+  "advancements.dragonfinder.dragon_eye.title": "让我看看，是什么机密。",
+  "advancements.dragonfinder.dragon_eye.description": "制作一个龙之眼，用来寻找巨龙"
+}

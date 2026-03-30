@@ -1,0 +1,34 @@
+#Starting points for the altar.
+startingPoints = 500
+#The number of points to increase after each victory.
+pointsIncrease = 100
+#Maximum ratio of remaining points to mob cost for summoning.
+#For example, with a value of 8 and remaining points of 400, mobs with a cost of 50 or less will not be summoned.
+#If no mob can be summoned within 5 attempts, a random mob will be summoned regardless of its cost.
+mobCostRatio = 8
+#Chance for spawning a squad of mobs instead of a single mob.
+#For example, a value of 0.35 means a 35% chance to spawn a squad.
+#Range: 0.0 ~ 1.0
+squadSpawnChance = 0.65
+#Number of mobs in a squad when squad spawning occurs.
+#For example, a value of 3 means 3 identical mobs will spawn.
+#If there are not enough points to spawn the full squad, only as many mobs will spawn as the points allow.
+squadSpawnSize = 3
+#Enables or disables setting the time to night when the battle starts.
+#If true, the game will automatically switch to night time at the start of the battle.
+nightTime = true
+#Enables or disables starting rain when the battle begins.
+#If true, it will start raining at the beginning of the battle.
+enableRain = false
+#Determines whether summoned mobs drop items upon death.
+#If true, summoned mobs will drop their loot as usual.
+#If false, no items will drop from summoned mobs.
+enableMobItemDrop = true
+#Determines whether the reward key can only be used on empty chests.
+#If true, the key cannot be applied to a chest that contains items.
+requireEmptyChest = true
+#List of mobs with their values (e.g., [["minecraft:zombie", 10]])
+mobValues = [["minecraft:blaze", 40], ["minecraft:pillager", 35], ["iceandfire:dread_beast", 40], ["alexsmobs:murmur", 40], ["minecraft:skeleton", 30], ["cataclysm:coral_golem", 160], ["minecraft:zoglin", 55], ["alexsmobs:mimicube", 40], ["cataclysm:wadjet", 250], ["minecraft:ravager", 150], ["cataclysm:elite_draugr", 40], ["eeeabsmobs:guling_sentinel_heavy", 500], ["cataclysm:amethyst_crab", 250], ["minecraft:vindicator", 50], ["iceandfire:cockatrice", 100], ["minecraft:magma_cube", 25], ["alexsmobs:rocky_roller", 25], ["cataclysm:royal_draugr", 40], ["minecraft:spider", 20], ["iceandfire:troll", 80], ["minecraft:warden", 2000], ["alexsmobs:warped_mosco", 150], ["alexsmobs:guster", 25], ["minecraft:evoker", 80], ["minecraft:slime", 20], ["iceandfire:dread_thrall", 40], ["cataclysm:draugr", 30], ["iceandfire:dread_ghoul", 40], ["minecraft:illusioner", 45], ["minecraft:zombified_piglin", 35], ["minecraft:witch", 30], ["iceandfire:dread_scuttler", 55], ["goety:necromancer", 40], ["minecraft:wither_skeleton", 45], ["minecraft:husk", 25], ["cataclysm:the_prowler", 250], ["cataclysm:aptrgangr", 250], ["minecraft:cave_spider", 30], ["iceandfire:cyclops", 200], ["iceandfire:ghost", 45], ["cataclysm:coralssus", 180], ["minecraft:stray", 35], ["cataclysm:ender_golem", 250], ["minecraft:zombie", 20], ["iceandfire:dread_knight", 80]]
+#A list of loot tables for the chest
+lootTables = ["minecraft:chests/abandoned_mineshaft", "minecraft:chests/ancient_city", "minecraft:chests/ancient_city_ice_box", "minecraft:chests/bastion_bridge", "minecraft:chests/bastion_hoglin_stable", "minecraft:chests/bastion_other", "minecraft:chests/bastion_treasure", "minecraft:chests/buried_treasure", "minecraft:chests/desert_pyramid", "minecraft:chests/end_city_treasure", "minecraft:chests/igloo_chest", "minecraft:chests/jungle_temple", "minecraft:chests/nether_bridge", "minecraft:chests/pillager_outpost", "minecraft:chests/ruined_portal", "minecraft:chests/shipwreck_map", "minecraft:chests/shipwreck_supply", "minecraft:chests/shipwreck_treasure", "minecraft:chests/simple_dungeon", "minecraft:chests/spawn_bonus_chest", "minecraft:chests/stronghold_corridor", "minecraft:chests/stronghold_crossing", "minecraft:chests/stronghold_library", "minecraft:chests/underwater_ruin_big", "minecraft:chests/underwater_ruin_small", "minecraft:chests/village/village_armorer", "minecraft:chests/village/village_snowy_house", "minecraft:chests/village/village_temple", "minecraft:chests/village/village_toolsmith", "minecraft:chests/village/village_weaponsmith", "minecraft:chests/woodland_mansion", "iceandfire:chest/cyclops_cave", "iceandfire:chest/fire_dragon_female_cave", "iceandfire:chest/fire_dragon_male_cave", "iceandfire:chest/fire_dragon_roost", "iceandfire:chest/graveyard", "iceandfire:chest/hydra_cave", "iceandfire:chest/ice_dragon_female_cave", "iceandfire:chest/ice_dragon_male_cave", "iceandfire:chest/ice_dragon_roost", "iceandfire:chest/lightning_dragon_female_cave", "iceandfire:chest/lightning_dragon_male_cave", "iceandfire:chest/lightning_dragon_roost", "iceandfire:chest/mausoleum_chest", "iceandfire:chest/myrmex_desert_food_chest", "iceandfire:chest/myrmex_jungle_food_chest", "iceandfire:chest/myrmex_loot_chest", "iceandfire:chest/myrmex_trash_chest", "iceandfire:chest/village_scribe"]
+

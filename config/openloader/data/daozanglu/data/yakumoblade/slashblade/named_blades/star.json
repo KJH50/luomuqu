@@ -1,0 +1,24 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:power",
+      "lvl": 5
+    }
+  ],
+  "name": "yakumoblade:star",
+  "properties": {
+    "attack_base": 10.0,
+    "max_damage": 80,
+    "special_effects": [
+      "yakumoblade:star_soul"
+    ],
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "model": "yakumoblade:model/relicofpaseone/dahe.obj",
+    "summon_sword_color": 10492369,
+    "texture": "yakumoblade:model/other/color_c.png"
+  }
+}

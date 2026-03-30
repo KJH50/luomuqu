@@ -1,0 +1,11 @@
+
+["Headshot Bonus Config"]
+	#Animals have been included
+	"Entity Blacklist" = ["minecraft:ender_dragon"]
+	#Projectiles that do not trigger headshots
+	"Projectile Blacklist" = ["minecraft:snowball"]
+	#Range: 1.0 ~ 114514.0
+	"Headshot damage Multiplier" = 2.0
+	"Whether to notify the one who shoots the head" = true
+	"Whether to notify the victim" = false
+

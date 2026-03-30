@@ -1,0 +1,15 @@
+{
+  "name": "slashblade:orotiagito",
+  "properties": {
+    "attack_base": 22.0,
+    "max_damage": 120,
+    "slash_art": "slashblade:wave_edge",
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "model": "slashblade:model/named/agito.obj",
+    "texture": "slashblade:model/named/orotiagito.png"
+  }
+}
