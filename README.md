@@ -10,7 +10,7 @@ Minecraft 1.20.1 Forge 整合包
 ## 安装说明
 
 1. 安装 Minecraft 1.20.1 Forge 47.4.0+
-2. 将 `overrides` 文件夹中的所有内容复制到 `.minecraft` 文件夹中
+2. 将安装包拖到启动器下载
 3. 启动游戏
 
 ## 许可证
