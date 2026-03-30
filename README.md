@@ -23,3 +23,6 @@ Minecraft 1.20.1 Forge 整合包
 - 配置文件见 `config/`
 - KubeJS 脚本见 `kubejs/`
 - 资源包见 `resourcepacks/`
+
+## 原包下载链接
+https://bbsmc.net/modpack/luomuqu
